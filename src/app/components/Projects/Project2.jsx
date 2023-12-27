@@ -27,9 +27,9 @@ const Project2 = () => {
           <p className="text-xl text-gray-400 font-bold mb-6">
             Process Clips
           </p>
-          <div className="mb-4"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/TwitchP1.gif" alt="TwitchP1" width={600} height={400} />
-            <Image src="/images/TwitchP2.gif" alt="TwitchP2" width={600} height={400} />
+          <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/TwitchP1.gif" alt="TwitchP1" width={300} height={400} />
+            <Image src="/images/TwitchP2.gif" alt="TwitchP2" width={300} height={400} />
           </div>
           <Image src="/images/TwitchP3.gif" alt="TwitchP3" width={300} height={200} />
         </div>

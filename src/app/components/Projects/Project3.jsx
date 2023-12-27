@@ -29,9 +29,9 @@ const Project3 = () => {
             Process Clips
           </p>
           <div className="mb-6"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/PIC2.gif" alt="PIC2" width={600} height={400} />
-            <Image src="/images/PIC3.gif" alt="PIC3" width={600} height={400} />
-            <Image src="/images/PIC4.gif" alt="PIC4" width={600} height={400} />
+            <Image src="/images/PIC2.gif" alt="PIC2" width={200} height={400} />
+            <Image src="/images/PIC3.gif" alt="PIC3" width={200} height={400} />
+            <Image src="/images/PIC4.gif" alt="PIC4" width={200} height={400} />
           </div>
           <Image src="/images/PIC1.gif" alt="PIC1" width={600} height={400} />
         </div>
