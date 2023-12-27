@@ -19,7 +19,7 @@ const Project12 = () => {
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
-          I created an augmented reality (AR) Instagram filter showcasing the characters from Claivett's book, "AKUYAKU." This personalized gift serves as a promotional tool for my friend, the author, to generate buzz and engage their audience on social media in celebration of the book's release.
+          I created an augmented reality (AR) Instagram filter showcasing the characters from Claivett&apos;s book, &apos;AKUYAKU&apos;. This personalized gift serves as a promotional tool for my friend, the author, to generate buzz and engage their audience on social media in celebration of the book&apos;s release.
           </p>
         <div className="mb-4">
         <p className="text-xl text-gray-400 font-bold mb-2">Try it out</p>

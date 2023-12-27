@@ -28,7 +28,7 @@ const Project13 = () => {
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
           <p className="text-lg text-gray-400 mb-4">
-          Set months after the game's main storyline, the expansion unfolds as Tleli stumbles upon a town immersed in the use of long-range weapons. Here, she undertakes rigorous training to liberate the town from a mysterious curse haunting its nights. Our virtual reality experience immerses players solely in Tleli's training, portrayed through assets like a staged environment featuring painted enemies on wooden targets.
+          Set months after the game&apos;s main storyline, the expansion unfolds as Tleli stumbles upon a town immersed in the use of long-range weapons. Here, she undertakes rigorous training to liberate the town from a mysterious curse haunting its nights. Our virtual reality experience immerses players solely in Tleli&apos;s training, portrayed through assets like a staged environment featuring painted enemies on wooden targets.
           </p>
         <div className="mb-4">
         <p className="text-xl text-gray-400 font-bold mb-2">Concept Art</p>

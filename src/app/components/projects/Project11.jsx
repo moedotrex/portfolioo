@@ -29,7 +29,7 @@ const Project11 = () => {
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
-          A group of friends set out for a night of fun, only to encounter unexpected twists. Val and Frankie, a couple, rendezvous with their friend Wen outside a nightclub. Wen's support helps Frankie shed inhibitions, allowing her to dance freely with Val. As the night progresses, Wen finds a potential romantic interest, and his friends rally to offer support and guidance in this unforeseen turn of events.
+          A group of friends set out for a night of fun, only to encounter unexpected twists. Val and Frankie, a couple, rendezvous with their friend Wen outside a nightclub. Wen&apos;s support helps Frankie shed inhibitions, allowing her to dance freely with Val. As the night progresses, Wen finds a potential romantic interest, and his friends rally to offer support and guidance in this unforeseen turn of events.
           </p>
         <div className="mb-4">
         <p className="text-xl text-gray-400 font-bold mb-4">Characters</p>

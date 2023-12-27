@@ -82,7 +82,7 @@ const Project1 = () => {
             <img src="/images/plantscapegifclip.gif" alt="Visuals" className="w-full mb-4" />
             <div className="text-lg text-gray-400 ml-auto">
             <p className="text-xl font-bold mb-4 mt-7">Engagement</p>
-            The video game offers a multifaceted engagement experience. It elicits emotional connection through the player's bond with the robot and its kitten, tactical involvement through the mechanics of plant gathering and growth that demand strategic thinking, and a sense of reward derived from unlocking new areas and discovering regenerated ecosystems as a result of the player's actions.
+            The video game offers a multifaceted engagement experience. It elicits emotional connection through the player&apos;s bond with the robot and its kitten, tactical involvement through the mechanics of plant gathering and growth that demand strategic thinking, and a sense of reward derived from unlocking new areas and discovering regenerated ecosystems as a result of the player&apos;s actions.
           </div>
           </div>
           <div className="w-full mb-4 flex">

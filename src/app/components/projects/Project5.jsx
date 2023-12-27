@@ -4,7 +4,7 @@ import Image from 'next/image';
 const Project5 = () => {
   return (
     <div className="container mx-auto px-4 py-24">
-      <h1 className="text-4xl font-bold mb-4">Chapaleto's Adventures Undersea</h1>
+      <h1 className="text-4xl font-bold mb-4">Chapaleto&apos;s Adventures Undersea</h1>
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
         <div className="mb-4">
@@ -58,7 +58,7 @@ const Project5 = () => {
           </div>
           <div className="text-lg text-gray-400 mb-4">
             <p className="text-xl font-bold mb-3 mt-3">Character Design</p>
-            Chapaleto draws inspiration from the Spanish term for swimming paddles, "chapaletas," and our fondness for cats. Our aim was to bring to life charming and unforgettable characters that embody the whimsical idea of a scuba cat. To complement this playful concept, we introduced a beach-working crocodile boss and delightful fish residents dwelling at the ocean floor. While these underwater escapades unfold, beware of the less-than-adorable but certainly memorable sea monsters lurking nearby.
+            Chapaleto draws inspiration from the Spanish term for swimming paddles, &apos;chapaletas&apos;, and our fondness for cats. Our aim was to bring to life charming and unforgettable characters that embody the whimsical idea of a scuba cat. To complement this playful concept, we introduced a beach-working crocodile boss and delightful fish residents dwelling at the ocean floor. While these underwater escapades unfold, beware of the less-than-adorable but certainly memorable sea monsters lurking nearby.
           </div>
           <div className="mb-4">
             <Image src="/images/chapfish.png" alt="ChapaletoFish" width={610} height={400} />

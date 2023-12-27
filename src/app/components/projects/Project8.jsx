@@ -61,7 +61,7 @@ const Project8 = () => {
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-4">Story</p>
           <p className="text-lg text-gray-400 mb-4">
-          A27, an impassioned scientist, and B34, a devoted soldier, find themselves on a crucial mission to Earth. Their task is to unravel the enigmatic reasons behind human extinction and the planet's ongoing decay. The urgency lies in their race's quest to colonize Earth before a rival empire claims it, all while racing against the Earth's impending self-destruction.
+          A27, an impassioned scientist, and B34, a devoted soldier, find themselves on a crucial mission to Earth. Their task is to unravel the enigmatic reasons behind human extinction and the planet&apos;s ongoing decay. The urgency lies in their race&apos;s quest to colonize Earth before a rival empire claims it, all while racing against the Earth&apos;s impending self-destruction.
           Throughout their expedition, the duo encounters a series of challenges that not only require their collaborative efforts but also forge a deeper connection between them. As they navigate the complexities of their mission, A27 and B34 undergo personal growth, fostering a strengthened bond that becomes essential to the success of their interstellar endeavor.
           </p>
           <div className="mb-4">
@@ -83,7 +83,7 @@ const Project8 = () => {
           <p className="text-xl text-gray-400 font-bold mb-4 mt-4">Objective</p>
           <p className="text-lg text-gray-400 mb-4">
           Through our project, we aim to provoke contemplation on current human actions and the potential consequences if we persist on a destructive trajectory, impacting both society and the environment. Our project serves as a poignant mirror reflecting Earth in a degenerative state, a consequence of relentless exploitation.
-          This theme is underscored by our alternative endings: In the "good" conclusion, Earth is salvaged, offering a glimpse of hope; contrastingly, the "bad" ending depicts aliens mirroring humanity's destructive path, resulting in their eventual downfall. These divergent outcomes serve as narrative devices, prompting viewers to reflect on the consequences of our actions and consider alternative paths forward.
+          This theme is underscored by our alternative endings: In the &apos;good&apos; conclusion, Earth is salvaged, offering a glimpse of hope; contrastingly, the &apos;bad&apos; ending depicts aliens mirroring humanity&apos;s destructive path, resulting in their eventual downfall. These divergent outcomes serve as narrative devices, prompting viewers to reflect on the consequences of our actions and consider alternative paths forward.
           </p>
           </div>
           <p className="text-xl text-gray-400 font-bold mb-4 mt-4">Earlier Concept Art</p>

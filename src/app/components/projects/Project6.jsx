@@ -28,7 +28,7 @@ const Project6 = () => {
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
-          I crafted a series of 3D multi-user experiences for the HoloLens 2, seamlessly synchronized using Azure Spatial Anchors. Leveraging Unity and Microsoft's Mixed Reality Toolkit SDK, I developed a user-friendly menu allowing you to select and deploy various holograms into your space. Notable apps in the lineup include an ambulance customization tool, streamlining remote ambulance orders, a showroom app for previewing furniture in new apartments, a smart buildings app for detailed land and apartment building information, and an event layout app for previewing interior designs before ordering items like chairs, tables, etc.
+          I crafted a series of 3D multi-user experiences for the HoloLens 2, seamlessly synchronized using Azure Spatial Anchors. Leveraging Unity and Microsoft&apos;s Mixed Reality Toolkit SDK, I developed a user-friendly menu allowing you to select and deploy various holograms into your space. Notable apps in the lineup include an ambulance customization tool, streamlining remote ambulance orders, a showroom app for previewing furniture in new apartments, a smart buildings app for detailed land and apartment building information, and an event layout app for previewing interior designs before ordering items like chairs, tables, etc.
           </p>
           <div className="mb-4">
           <video width="100%" height="auto" controls>

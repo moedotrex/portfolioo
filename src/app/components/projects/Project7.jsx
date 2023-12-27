@@ -4,7 +4,7 @@ import Image from 'next/image';
 const Project7 = () => {
   return (
     <div className="container mx-auto px-4 py-24">
-      <h1 className="text-4xl font-bold mb-4">So that's what that dream was about</h1>
+      <h1 className="text-4xl font-bold mb-4">So that&apos;s what that dream was about</h1>
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
           <div className="mb-4">
