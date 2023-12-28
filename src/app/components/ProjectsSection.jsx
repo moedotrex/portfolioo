@@ -1,29 +1,29 @@
 // ProjectsSection.jsx
 import React, { useState, useRef } from "react";
-import { Link } from 'react-router-dom';
-import ProjectCard from './ProjectCard';
-import ProjectTag from "./ProjectTag";
+import dynamic from 'next/dynamic'; 
+const Link = dynamic(() => import('react-router-dom').then((mod) => mod.Link), { ssr: false });
+const ProjectCard = dynamic(() => import('./ProjectCard'), { ssr: false });
+const ProjectTag = dynamic(() => import('./ProjectTag'), { ssr: false });
 import { motion, useInView } from "framer-motion";
-import ProjectLink from "./ProjectLink";
-import Project1 from "./Projects/Project1";
-import Project2 from "./Projects/Project2";
-import Project3 from "./Projects/Project3";
-import Project4 from "./Projects/Project4";
-import Project5 from "./Projects/Project5";
-
-import Project6 from "./Projects/Project6";
-import Project7 from "./Projects/Project7";
-import Project8 from "./Projects/Project8";
-import Project9 from "./Projects/Project9";
-import Project10 from "./Projects/Project10";
-import Project11 from "./Projects/Project11";
-import Project12 from "./Projects/Project12";
-import Project13 from "./Projects/Project13";
-import Project14 from "./Projects/Project14";
-import Project15 from "./Projects/Project15";
-import Project16 from "./Projects/Project16";
-import Project17 from "./Projects/Project17";
-import Project18 from "./Projects/Project18";
+const ProjectLink = dynamic(() => import('./ProjectLink'), { ssr: false });
+const Project1 = dynamic(() => import('./Projects/Project1'), { ssr: false });
+const Project2 = dynamic(() => import('./Projects/Project2'), { ssr: false });
+const Project3 = dynamic(() => import('./Projects/Project3'), { ssr: false });
+const Project4 = dynamic(() => import('./Projects/Project4'), { ssr: false });
+const Project5 = dynamic(() => import('./Projects/Project5'), { ssr: false });
+const Project6 = dynamic(() => import('./Projects/Project6'), { ssr: false });
+const Project7 = dynamic(() => import('./Projects/Project7'), { ssr: false });
+const Project8 = dynamic(() => import('./Projects/Project8'), { ssr: false });
+const Project9 = dynamic(() => import('./Projects/Project9'), { ssr: false });
+const Project10 = dynamic(() => import('./Projects/Project10'), { ssr: false });
+const Project11 = dynamic(() => import('./Projects/Project11'), { ssr: false });
+const Project12 = dynamic(() => import('./Projects/Project12'), { ssr: false });
+const Project13 = dynamic(() => import('./Projects/Project13'), { ssr: false });
+const Project14 = dynamic(() => import('./Projects/Project14'), { ssr: false });
+const Project15 = dynamic(() => import('./Projects/Project15'), { ssr: false });
+const Project16 = dynamic(() => import('./Projects/Project16'), { ssr: false });
+const Project17 = dynamic(() => import('./Projects/Project17'), { ssr: false });
+const Project18 = dynamic(() => import('./Projects/Project18'), { ssr: false });
 
 const projectsData = [
   {

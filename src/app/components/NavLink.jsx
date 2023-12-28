@@ -1,6 +1,7 @@
 // NavLink.jsx
 import React from 'react';
-import { Link } from 'react-router-dom';
+import dynamic from 'next/dynamic';
+const Link = dynamic(() => import('react-router-dom').then((mod) => mod.Link), { ssr: false });
 
 const NavLink = ({ href, title }) => {
   return (

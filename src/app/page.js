@@ -1,30 +1,48 @@
 "use client";
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import HeroSection from './components/HeroSection';
-import Navbar from './components/Navbar';
-import AboutSection from './components/AboutSection';
-import ProjectsSection from './components/ProjectsSection';
-import Footer from './components/Footer';
-import EmailSection from './components/EmailSection';
-import Project1 from './components/Projects/Project1';
-import Project2 from './components/Projects/Project2';
-import Project3 from './components/Projects/Project3';
-import Project4 from './components/Projects/Project4';
-import Project5 from './components/Projects/Project5';
-import Project6 from './components/Projects/Project6';
-import Project7 from './components/Projects/Project7';
-import Project8 from './components/Projects/Project8';
-import Project9 from './components/Projects/Project9';
-import Project10 from './components/Projects/Project10';
-import Project11 from './components/Projects/Project11';
-import Project12 from './components/Projects/Project12';
-import Project13 from './components/Projects/Project13';
-import Project14 from './components/Projects/Project14';
-import Project15 from './components/Projects/Project15';
-import Project16 from './components/Projects/Project16';
-import Project17 from './components/Projects/Project17';
-import Project18 from './components/Projects/Project18';
+import dynamic from 'next/dynamic';
+
+// Import components dynamically with ssr: false
+const HeroSection = dynamic(() => import('./components/HeroSection'), { ssr: false });
+const Navbar = dynamic(() => import('./components/Navbar'), { ssr: false });
+const AboutSection = dynamic(() => import('./components/AboutSection'), { ssr: false });
+const ProjectsSection = dynamic(() => import('./components/ProjectsSection'), { ssr: false });
+const Footer = dynamic(() => import('./components/Footer'), { ssr: false });
+const EmailSection = dynamic(() => import('./components/EmailSection'), { ssr: false });
+const Project1 = dynamic(() => import('./components/Projects/Project1'), { ssr: false });
+const Project2 = dynamic(() => import('./components/Projects/Project2'), { ssr: false });
+const Project3 = dynamic(() => import('./components/Projects/Project3'), { ssr: false });
+const Project4 = dynamic(() => import('./components/Projects/Project4'), { ssr: false });
+const Project5 = dynamic(() => import('./components/Projects/Project5'), { ssr: false });
+const Project6 = dynamic(() => import('./components/Projects/Project6'), { ssr: false });
+const Project7 = dynamic(() => import('./components/Projects/Project7'), { ssr: false });
+const Project8 = dynamic(() => import('./components/Projects/Project8'), { ssr: false });
+const Project9 = dynamic(() => import('./components/Projects/Project9'), { ssr: false });
+const Project10 = dynamic(() => import('./components/Projects/Project10'), { ssr: false });
+const Project11 = dynamic(() => import('./components/Projects/Project11'), { ssr: false });
+const Project12 = dynamic(() => import('./components/Projects/Project12'), { ssr: false });
+const Project13 = dynamic(() => import('./components/Projects/Project13'), { ssr: false });
+const Project14 = dynamic(() => import('./components/Projects/Project14'), { ssr: false });
+const Project15 = dynamic(() => import('./components/Projects/Project15'), { ssr: false });
+const Project16 = dynamic(() => import('./components/Projects/Project16'), { ssr: false });
+const Project17 = dynamic(() => import('./components/Projects/Project17'), { ssr: false });
+const Project18 = dynamic(() => import('./components/Projects/Project18'), { ssr: false });
+
+var stripe_load = () => {
+  if (process.browser) {
+      var aScript = document.createElement('script');
+      aScript.type = 'text/javascript';
+      aScript.src = " https://js.stripe.com/v3/";
+
+      document.head.appendChild(aScript);
+      aScript.onload = () => {
+
+      };
+  }
+};
+
+stripe_load();
 
 const Home = () => {
   return (
@@ -63,7 +81,6 @@ const Page = () => {
           <Route path="/Project16" element={<Project16 />} />
           <Route path="/Project17" element={<Project17 />} />
           <Route path="/Project18" element={<Project18 />} />
-
         </Routes>
         <Footer />
       </main>

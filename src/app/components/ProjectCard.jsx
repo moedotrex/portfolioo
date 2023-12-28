@@ -1,7 +1,8 @@
 // ProjectCard.jsx
 import React from "react";
-import { CodeBracketIcon, EyeIcon } from "@heroicons/react/24/outline";
-import { Link } from "react-router-dom";
+import dynamic from 'next/dynamic';
+import { CodeBracketIcon, EyeIcon } from "@heroicons/react/24/outline"; 
+const Link = dynamic(() => import('react-router-dom').then((mod) => mod.Link), { ssr: false });
 
 const ProjectCard = ({ imgUrl, title, description, previewUrl }) => {
   return (

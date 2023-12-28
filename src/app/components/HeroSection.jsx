@@ -1,8 +1,9 @@
 "use client";
 import React from 'react';
-import Image from 'next/image';
-import AboutSection from './AboutSection';
-import { Link } from 'react-router-dom';
+import dynamic from 'next/dynamic';
+const Image = dynamic(() => import('next/image'), { ssr: false });
+const AboutSection = dynamic(() => import('./AboutSection'), { ssr: false });
+const Link = dynamic(() => import('react-router-dom').then((mod) => mod.Link), { ssr: false });
 import { TypeAnimation } from 'react-type-animation';
 
 const HeroSection = () => {

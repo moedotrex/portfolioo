@@ -1,7 +1,9 @@
 "use client";
 import React, { useTransition, useState } from "react";
-import Image from "next/image";
-import TabButton from "./TabButton";
+import dynamic from 'next/dynamic';
+const Image = dynamic(() => import('next/image'), { ssr: false });
+const TabButton = dynamic(() => import('./TabButton'), { ssr: false });
+
 
 const TAB_DATA = [
   {

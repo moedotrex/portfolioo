@@ -1,5 +1,6 @@
 import React from 'react';
-import NavLink from './NavLink';
+import dynamic from 'next/dynamic';
+const NavLink = dynamic(() => import('./NavLink'), { ssr: false });
 
 export const MenuOverlay = ({ links }) => {
   return (

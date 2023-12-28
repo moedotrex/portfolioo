@@ -1,10 +1,11 @@
 "use client";
 import Link from "next/link";
 import React, { useState } from "react";
-import NavLink from "./NavLink";
+import dynamic from 'next/dynamic';
+const NavLink = dynamic(() => import('./NavLink'), { ssr: false });
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
-import MenuOverlay from "./MenuOverlay";
-import AboutSection from "./AboutSection";
+const MenuOverlay = dynamic(() => import('./MenuOverlay'), { ssr: false });
+const AboutSection = dynamic(() => import('./AboutSection'), { ssr: false });
 
 const navLinks = [
   {
