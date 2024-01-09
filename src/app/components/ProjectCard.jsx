@@ -1,4 +1,5 @@
 // ProjectCard.jsx
+"use client"
 import React from "react";
 import dynamic from 'next/dynamic';
 import { CodeBracketIcon, EyeIcon } from "@heroicons/react/24/outline"; 

@@ -1,4 +1,5 @@
 // ProjectsSection.jsx
+"use client"
 import React, { useState, useRef } from "react";
 import dynamic from 'next/dynamic'; 
 const Link = dynamic(() => import('react-router-dom').then((mod) => mod.Link), { ssr: false });

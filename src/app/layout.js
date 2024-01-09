@@ -2,6 +2,7 @@
 import { Inter } from 'next/font/google'
 import './globals.css'
 import React from 'react';
+import dynamic from 'next/dynamic';
 import ReactDOM from 'react-dom';
 import Home from './page';
 import { BrowserRouter } from 'react-router-dom';

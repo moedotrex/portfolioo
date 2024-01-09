@@ -6,7 +6,7 @@ import InstagramIcon from "../../../public/instagram-icon.svg";
 import TwitchIcon from "../../../public/twitch-icon.svg";
 import TiktokIcon from "../../../public/tiktok-icon.svg";
 import Link from "next/link";
-const Image = dynamic(() => import('next/image'), { ssr: false });
+import Image from "next/image";
 
 const EmailSection = () => {
   const [emailSubmitted, setEmailSubmitted] = useState(false);
