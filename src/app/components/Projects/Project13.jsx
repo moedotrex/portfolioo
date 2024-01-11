@@ -34,11 +34,11 @@ const Project13 = () => {
           </p>
         <div className="mb-4">
         <p className="text-xl text-gray-400 font-bold mb-2">Concept Art</p>
-        <Image src="/images/tlelibowc1.png" alt="tlelibowc1" width={600} height={400} />
+        <Image src="/images/tlelibowc1.PNG" alt="tlelibowc1" width={600} height={400} />
         <p className="text-md text-gray-500 mt-2">Camera View</p>
         </div>
         <div className="mb-4">
-        <Image src="/images/tlelibowc2.png" alt="tlelibowc2" width={600} height={400} />
+        <Image src="/images/tlelibowc2.PNG" alt="tlelibowc2" width={600} height={400} />
         <p className="text-md text-gray-500 mt-2">External View</p>
         </div>
         </div>
