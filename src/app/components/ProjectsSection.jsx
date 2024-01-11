@@ -2,7 +2,7 @@
 "use client"
 import React, { useState, useRef } from "react";
 import dynamic from 'next/dynamic'; 
-const Link = dynamic(() => import('react-router-dom').then((mod) => mod.Link), { ssr: false });
+import Link from 'next/link';
 const ProjectCard = dynamic(() => import('./ProjectCard'), { ssr: false });
 const ProjectTag = dynamic(() => import('./ProjectTag'), { ssr: false });
 import { motion, useInView } from "framer-motion";

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8531],{8531:function(e,t,r){r.r(t);var l=r(5893);r(7294);var s=r(1664),n=r.n(s);t.default=e=>{let{href:t,title:r}=e;return(0,l.jsx)(n(),{href:t,children:(0,l.jsx)("div",{className:"block py-2 pl-3 pr-4 text-[#ADB7BE] sm:text-xl rounded md:p-0 hover:text-white",children:r})})}}}]);

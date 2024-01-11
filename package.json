@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/inter": "^5.0.16",
     "@heroicons/react": "^2.1.1",
     "framer-motion": "^10.16.16",
     "next": "14.0.4",

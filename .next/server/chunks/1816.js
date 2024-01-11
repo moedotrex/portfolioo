@@ -1,0 +1,1 @@
+"use strict";exports.id=1816,exports.ids=[1816],exports.modules={1816:(e,r,t)=>{t.r(r),t.d(r,{default:()=>d});var o=t(997);t(6689);let d=({name:e,onClick:r,isSelected:t})=>o.jsx("button",{className:`${t?"text-white border-purple-500":"text-[#ADB7BE] border-slate-600 hover:border-white"} rounded-full border-2 px-6 py-2 text-xl cursor-pointer`,onClick:()=>r(e),children:e})}};

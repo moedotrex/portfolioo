@@ -56,12 +56,14 @@ const AboutSection = () => {
 
   return (
     <section className="text-white" id="about">
-      <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16" style={{ marginTop: "2rem" }}>
-        <Image src="/images/aboutmoe1.PNG" width={500} height={500} />
-        <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
-          <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
-          <p className="text-base lg:text-lg">
-                Hiya! My name is Moe, I am a digital artist and game developer, I’m interested in storytelling, storyboarding, character design and programming.
+      <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16" style={{ marginTop: "5rem" }}>
+      <div className="md:ml-auto mr-40"> {/* Adjust margin as needed */}
+          <Image src="/images/aboutmoe1.PNG" width={500} height={500} />
+        </div>
+        <div className="mt-6 md:mt-00 text-left flex flex-col h-full">
+          <h2 className="text-4xl font-bold text-white mb-5">About Me</h2>
+          <p className="mr-6 text-base lg:text-lg">
+                Hiya! My name is Moe, I am a digital artist and game developer, I&apos;m interested in storytelling, storyboarding, character design and programming.
                 </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

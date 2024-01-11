@@ -1,0 +1,1 @@
+"use strict";exports.id=7105,exports.ids=[7105],exports.modules={7105:(e,r,s)=>{s.r(r),s.d(r,{default:()=>l});var t=s(997);s(6689);var d=s(1664),i=s.n(d);let l=({to:e,children:r})=>t.jsx(i(),{href:e,children:r})}};

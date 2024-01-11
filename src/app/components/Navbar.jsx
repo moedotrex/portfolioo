@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import Image from "next/image";
 import React, { useState } from "react";
 import dynamic from 'next/dynamic';
 const NavLink = dynamic(() => import('./NavLink'), { ssr: false });
@@ -28,12 +29,16 @@ const Navbar = () => {
   return (
     <nav className="fixed mx-auto border border-[#33353F] top-0 left-0 right-0 z-10 bg-[#121212] bg-opacity-100">
       <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-2">
+        {/* Include the favicon directly */}
+        <div className="flex items-center">
+          <Image src="/favicon.png" alt="Favicon" width={70} height={70} />
         <Link
           href={"https://moerex.com/"}
-          className="text-2xl md:text-5xl text-white font-semibold"
+          className="ml-3 text-2xl md:text-5xl text-white font-semibold"
         >
             moerex
             </Link>
+            </div>
         <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (
             <button
