@@ -19,18 +19,18 @@ const Project5 = () => {
             <p className="text-xl font-bold mb-3 mt-5">Level Design</p>
             Inspired by mazes, obstacles were placed so the player must move in various directions to go further down, and make them feel lost when they want to go up. It is seamlessly divided in 3 sections of depth, each one getting darker and wider than the previous one, also more dangerous creatures may be found below.
           </div>
-          <Image src="/images/chapd1.png" alt="ChapDesign" width={6500} height={800} />
+          <Image src="/images/chapd1.PNG" alt="ChapDesign" width={6500} height={800} />
           <div className="w-full mb-4 mt-4 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/chapdfinal.png" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
+              <img src="/images/chapdfinal.PNG" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
               <p className="text-md text-gray-500 mb-4">Chapaleto Character Design Explorations</p>
              </div>
             <div className="w-1/2 pl-2">
-              <img src="/images/chapd2.png" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
+              <img src="/images/chapd2.PNG" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
             </div>
           </div>
           <div className="mb-4">
-            <Image src="/images/chapcroc.png" alt="ChapCroc" width={610} height={400} />
+            <Image src="/images/chapcroc.PNG" alt="ChapCroc" width={610} height={400} />
             <p className="text-md text-gray-500 mt-2 mb-4">Crocodile Concepts</p>
           </div>
           <div className="mt-6">
@@ -51,11 +51,11 @@ const Project5 = () => {
           </div>
           <div className="w-full mb-4 mt-4 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/chapleveld.png" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
+              <img src="/images/chapleveld.PNG" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
               <p className="text-md text-gray-500 mt-2 mb-3">Level Design Concept</p>
              </div>
             <div className="w-1/2 pl-2">
-              <img src="/images/chapleveld2.png" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
+              <img src="/images/chapleveld2.PNG" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
             </div>
           </div>
           <div className="text-lg text-gray-400 mb-4">
@@ -63,15 +63,15 @@ const Project5 = () => {
             Chapaleto draws inspiration from the Spanish term for swimming paddles, &apos;chapaletas&apos;, and our fondness for cats. Our aim was to bring to life charming and unforgettable characters that embody the whimsical idea of a scuba cat. To complement this playful concept, we introduced a beach-working crocodile boss and delightful fish residents dwelling at the ocean floor. While these underwater escapades unfold, beware of the less-than-adorable but certainly memorable sea monsters lurking nearby.
           </div>
           <div className="mb-4">
-            <Image src="/images/chapfish.png" alt="ChapaletoFish" width={610} height={400} />
+            <Image src="/images/chapfish.PNG" alt="ChapaletoFish" width={610} height={400} />
           </div>
           <div className="w-full mb-4 mt-4 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/chapen.png" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
+              <img src="/images/chapen.PNG" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
               <p className="text-md text-gray-500 mt-2 mb-4">Character Concepts and Sprites</p>
              </div>
             <div className="w-1/2 pl-2">
-              <img src="/images/chapspr.png" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
+              <img src="/images/chapspr.PNG" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
             </div>
           </div>
             <div className="mb-3">
