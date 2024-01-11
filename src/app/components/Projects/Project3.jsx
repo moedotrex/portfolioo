@@ -13,9 +13,9 @@ const Project3 = () => {
             <Image src="/images/PI1.png" alt="PI1" width={600} height={400} />
           </div>
           <div className="mb-6">
-            <Image src="/images/PI2.png" alt="PI2" width={600} height={400} />
+            <Image src="/images/PI2.PNG" alt="PI2" width={600} height={400} />
           </div>
-          <Image src="/images/PI4.png" alt="PI4" width={600} height={400} />
+          <Image src="/images/PI4.PNG" alt="PI4" width={600} height={400} />
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-4">About</p>
@@ -26,7 +26,7 @@ const Project3 = () => {
           <p className="text-lg text-gray-400 mb-6">
           I use Procreate for all my illustrations.
           </p>
-          <Image src="/images/PI3.PNG" alt="PI3" width={600} height={400} />
+          <Image src="/images/PI3.png" alt="PI3" width={600} height={400} />
           <p className="text-xl text-gray-400 font-bold mb-5 mt-6">
             Process Clips
           </p>
