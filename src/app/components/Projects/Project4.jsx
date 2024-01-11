@@ -103,10 +103,10 @@ const Project4 = () => {
             <Image src="/images/animationtree.png" alt="TleliAnim" width={600} height={900} />
             <p className="text-md text-gray-500 mt-2 mb-8">Player Animation Tree</p>
           </div>
-          <Image src="/images/deepsona1.png" alt="Deepsona" width={600} height={900} />
+          <Image src="/images/deepsona1.PNG" alt="Deepsona" width={600} height={900} />
           <div className="w-full mb-4 mt-2 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/deepsona2.png" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
+              <img src="/images/deepsona2.PNG" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
               <p className="text-md text-gray-500 mt-2">NPC Concept and 3D Model</p>
              </div>
             <div className="w-1/2 pl-2">
