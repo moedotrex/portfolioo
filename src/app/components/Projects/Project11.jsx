@@ -25,7 +25,7 @@ const Project11 = () => {
         <p className="text-xl text-gray-400 font-bold mb-2">Sketches</p>
         </div>
         <div className="mb-4">
-        <Image src="/images/cholu2.png" alt="bruj1" width={600} height={400} />
+        <Image src="/images/cholu2.PNG" alt="chol1" width={600} height={400} />
         </div>
         </div>
         <div className="md:w-1/2 md:ml-8">
@@ -35,7 +35,7 @@ const Project11 = () => {
           </p>
         <div className="mb-4">
         <p className="text-xl text-gray-400 font-bold mb-4">Characters</p>
-        <Image src="/images/cholu1.png" alt="cholu1" width={600} height={400} />
+        <Image src="/images/cholu1.PNG" alt="cholu1" width={600} height={400} />
         </div>
         </div>
       </div>
