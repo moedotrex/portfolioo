@@ -21,7 +21,7 @@ const Project10 = () => {
           Your goal is to help all of your students pass this week&apos;s exam, but to achieve it you need to investigate which students aren&apos;t paying attention in class, and ask them to attend a pre-exam study class. Using visual cues and 1 on 1 video chats, the player will decide which students should take the extra class. You can only do one 1 on 1 video chat per day, so you need to be careful with which student you choose each day.
           </p>
           <div className="mb-4">
-            <Image src="/images/lorstris.png" alt="lorstris" width={600} height={400} />
+            <Image src="/images/lorstris.PNG" alt="lorstris" width={600} height={400} />
             <p className="text-md text-gray-500 mt-2 mb-15">Character Concepts</p>
           </div>
           <div className="mb-4 mt-6">
@@ -40,11 +40,11 @@ const Project10 = () => {
             Background Art
           </p>
           <div className="mb-4">
-            <Image src="/images/lors1.png" alt="lors1" width={600} height={400} />
+            <Image src="/images/lors1.PNG" alt="lors1" width={600} height={400} />
           </div>
           <Image src="/images/lors2.png" alt="lors2" width={600} height={400} />
           <div className="mb-4 mt-4">
-            <Image src="/images/lors3.png" alt="lors3" width={600} height={400} />
+            <Image src="/images/lors3.PNG" alt="lors3" width={600} height={400} />
           </div>
           <Image src="/images/lors4.png" alt="lors4" width={600} height={400} />
         </div>
