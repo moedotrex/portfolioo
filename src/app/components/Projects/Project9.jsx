@@ -37,10 +37,10 @@ const Project9 = () => {
           In this whimsical animatic, two witch trainees wrap up their day at a magical shop in a universe where witches are commonplace. The newest hire, Kai, intrigued by divination, persuades Eli to read him some tarot cards to practice her skills. Although Eli hesitates, wary of Kai&apos;s history of readings going awry, his kindness prevails, and he reluctantly agrees. Little do they both know, Kai&apos;s persistent curiosity leads to yet another comical disaster during the reading.
           </p>
         <div className="mb-4">
-        <Image src="/images/bruj2.png" alt="bruj2" width={600} height={400} />
+        <Image src="/images/bruj2.PNG" alt="bruj2" width={600} height={400} />
         </div>
         <div className="mb-4">
-        <Image src="/images/bruj3.png" alt="bruj3" width={600} height={400} />
+        <Image src="/images/bruj3.PNG" alt="bruj3" width={600} height={400} />
         </div>
         </div>
       </div>
