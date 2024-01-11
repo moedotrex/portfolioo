@@ -10,10 +10,10 @@ const Project2 = () => {
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
           <div className="mb-4">
-            <Image src="/images/TwitchO1.png" alt="TwitchO1" width={600} height={400} />
+            <Image src="/images/TwitchO1.PNG" alt="TwitchO1" width={600} height={400} />
           </div>
           <div className="mb-4">
-            <Image src="/images/TwitchO2.png" alt="TwitchO2" width={600} height={400} />
+            <Image src="/images/TwitchO2.PNG" alt="TwitchO2" width={600} height={400} />
           </div>
           <Image src="/images/twitchclip.gif" alt="TwitchClip" width={600} height={400} />
         </div>
