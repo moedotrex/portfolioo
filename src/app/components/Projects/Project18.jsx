@@ -22,8 +22,8 @@ const Project18 = () => {
           Yia admires Xochi&apos;s laid-back attitude, urging Zam to loosen up a bit. In contrast, Zam views Xochi as an ideal, occasionally yearning for a more relaxed approach in her own life.
           </p>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/outer2.png" alt="o2" width={300} height={200} />
-            <Image src="/images/outer1.png" alt="o1" width={300} height={200} />
+            <Image src="/images/outer2.PNG" alt="o2" width={300} height={200} />
+            <Image src="/images/outer1.PNG" alt="o1" width={300} height={200} />
           </div>
           <p className="text-xl text-gray-400 font-bold mb-2">Pilot Episode</p>
           <p className="text-lg text-gray-400 mb-4">
@@ -39,7 +39,7 @@ const Project18 = () => {
           Embark on a journey alongside this group of friends as they navigate the intricacies of teenage life within a highly advanced civilization. In this vibrant world, diverse species coexist and thrive, and the girls encounter typical school and family issues, embark on exciting excursions, and dive into interstellar adventures. The narrative unfolds against the backdrop of a society equipped with interspatial technology, exploring the marvels and applications of advanced technology across varied species.
           </p>
         <div className="mb-4">
-        <Image src="/images/outer0.png" alt="o0" width={600} height={400} />
+        <Image src="/images/outer0.PNG" alt="o0" width={600} height={400} />
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">Background</p>
           <p className="text-lg text-gray-400 mb-4">
