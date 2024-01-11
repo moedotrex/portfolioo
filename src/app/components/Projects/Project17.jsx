@@ -10,7 +10,7 @@ const Project17 = () => {
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
           <div className="mb-4">
-            <Image src="/images/alien.gif" alt="alien" width={610} height={410} />
+            <Image src="/images/alien.GIF" alt="alien" width={610} height={410} />
             <p className="text-md text-gray-400 mt-4">
             Fun fact: these characters later evolved to become the protagonists of my game Morning Star.
             </p>
