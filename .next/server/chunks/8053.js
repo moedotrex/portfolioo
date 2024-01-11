@@ -1,1 +1,0 @@
-"use strict";exports.id=8053,exports.ids=[8053],exports.modules={8053:(e,t,r)=>{r.r(t),r.d(t,{default:()=>x});var s=r(997);r(6689);var d=r(1664),l=r.n(d);let x=({href:e,title:t})=>s.jsx(l(),{href:e,children:s.jsx("div",{className:"block py-2 pl-3 pr-4 text-[#ADB7BE] sm:text-xl rounded md:p-0 hover:text-white",children:t})})}};
