@@ -13,7 +13,7 @@ const Project15 = () => {
             <Image src="/images/sins.png" alt="sins" width={600} height={400} />
           </div>
           <div className="mb-4">
-          <Image src="/images/sini.png" alt="sinsI" width={600} height={400} />
+          <Image src="/images/sini.PNG" alt="sinsI" width={600} height={400} />
           </div>
         </div>
         <div className="md:w-1/2 md:ml-8">
@@ -25,12 +25,12 @@ const Project15 = () => {
           <p className="text-xl text-gray-400 font-bold mb-4">Sketches</p>
           </div>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/sin1.png" alt="sin1" width={300} height={200} />
-            <Image src="/images/sin2.png" alt="sin2" width={300} height={200} />
+            <Image src="/images/sin1.PNG" alt="sin1" width={300} height={200} />
+            <Image src="/images/sin2.PNG" alt="sin2" width={300} height={200} />
           </div>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/sin3.png" alt="sin3" width={300} height={200} />
-            <Image src="/images/sin4.png" alt="sin4" width={300} height={200} />
+            <Image src="/images/sin3.PNG" alt="sin3" width={300} height={200} />
+            <Image src="/images/sin4.PNG" alt="sin4" width={300} height={200} />
           </div>
         </div>
       </div>
