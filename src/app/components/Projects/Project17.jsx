@@ -23,7 +23,7 @@ const Project17 = () => {
           </p>
           <div className="w-full mb-4 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/alienc.png" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 300, width: 'auto' }} />
+              <img src="/images/alienc.PNG" alt="Visuals" className="w-full mb-2 h-auto" style={{ maxHeight: 300, width: 'auto' }} />
               <p className="text-md text-gray-500">Character Designs</p>
              </div>
             <div className="w-1/2 pl-2">
@@ -32,7 +32,7 @@ const Project17 = () => {
             </div>
           </div>
           <div>
-          <Image src="/images/alienproc.gif" alt="alienP" width={300} height={200} />
+          <Image src="/images/alienproc.GIF" alt="alienP" width={300} height={200} />
           <p className="text-md text-gray-500 mt-2">Rough Animation</p>
           </div>
         </div>
