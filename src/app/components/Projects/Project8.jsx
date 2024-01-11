@@ -68,13 +68,13 @@ const Project8 = () => {
           </p>
           <div className="mb-4">
           <p className="text-xl text-gray-400 font-bold mb-4">Storyboard</p>
-          <Image src="/images/mss1.png" alt="mss1" width={600} height={400} />
+          <Image src="/images/mss1.PNG" alt="mss1" width={600} height={400} />
           </div>
           <div className="mb-3">
-          <Image src="/images/mss2.png" alt="mss2" width={600} height={400} />
+          <Image src="/images/mss2.PNG" alt="mss2" width={600} height={400} />
           </div>
           <div className="mb-4">
-          <Image src="/images/mss3.png" alt="mss3" width={600} height={400} />
+          <Image src="/images/mss3.PNG" alt="mss3" width={600} height={400} />
           </div>
           <div className="mb-4">
           <p className="text-xl text-gray-400 font-bold mb-4 mt-4">Final Character Models</p>
@@ -93,16 +93,16 @@ const Project8 = () => {
             The original concepts of our alien characters were more humanoid, but we later switched the design to fit a cuter vibe.
           </p>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mse4.png" alt="mse4" width={300} height={200} />
-            <Image src="/images/ms3.png" alt="ms3" width={300} height={200} />
+            <Image src="/images/mse4.PNG" alt="mse4" width={300} height={200} />
+            <Image src="/images/ms3.PNG" alt="ms3" width={300} height={200} />
           </div>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mse2.png" alt="mse2" width={300} height={200} />
-            <Image src="/images/mse1.png" alt="mse1" width={300} height={200} />
+            <Image src="/images/mse2.PNG" alt="mse2" width={300} height={200} />
+            <Image src="/images/mse1.PNG" alt="mse1" width={300} height={200} />
           </div>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mse6.png" alt="mse6" width={300} height={200} />
-            <Image src="/images/mse5.png" alt="mse5" width={300} height={200} />
+            <Image src="/images/mse6.PNG" alt="mse6" width={300} height={200} />
+            <Image src="/images/mse5.PNG" alt="mse5" width={300} height={200} />
           </div>
         </div>
       </div>
