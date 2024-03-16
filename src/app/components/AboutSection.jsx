@@ -37,7 +37,7 @@ const TAB_DATA = [
         <li>Procreate</li>
         <li>Blender</li>
         <li>Photoshop</li>
-        <li>Ater Effects</li>
+        <li>After Effects</li>
         <li>Substance 3D</li>
       </ul>
     ),
