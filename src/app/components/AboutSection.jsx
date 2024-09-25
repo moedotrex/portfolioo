@@ -24,8 +24,9 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
+        <li>Master of Entertainment Technology from Carnegie Mellon University</li>
         <li>B.A. in Animation and Digital Arts from Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)</li>
-        <li>Focus in Game Development and Interactive Experiences.</li>
+        {/*Focus in Game Development and Interactive Experiences.*/}
       </ul>
     ),
   },
