@@ -1,5 +1,5 @@
 import React from 'react';
-import Project20 from '@/app/components/Projects/Project21';
+import Project21 from '@/app/components/Projects/Project21';
 import Navbar from '@/app/components/Navbar';
 import Footer from '@/app/components/Footer';
 
