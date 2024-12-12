@@ -10,6 +10,8 @@ import Footer from '../src/app/components/Footer';
 import EmailSection from '../src/app/components/EmailSection';
 import Project1 from '../src/app/components/Projects/Project1';
 import Project2 from '../src/app/components/Projects/Project2';
+import Project19 from '../src/app/components/Projects/Project19';
+import Project19Page from './Project19';
 // ... (import other projects)
 
 var stripe_load = () => {
@@ -52,6 +54,7 @@ const Page = () => {
       {router.pathname === '/Contact' && <EmailSection />}
       {router.pathname === '/Project1' && <Project1 />}
       {router.pathname === '/Project2' && <Project2 />}
+      {router.pathname === '/Project19' && <Project19 />}
       {/* ... (add other projects) */}
       <Footer />
     </div>
