@@ -33,16 +33,6 @@ const Project23 = dynamic(() => import('./Projects/Project23'), { ssr: false });
 
 const projectsData = [
   {
-    id: 23,
-    title: "Whispers of the Bloom",
-    description: "Tea Party with sentient flowers.",
-    image: "/images/projects/18.PNG",
-    tag: ["All", "Games"],
-    previewUrl: "/Project23",
-  },
-  
-  {
-    
     id: 1,
     title: "Plantscape",
     description: "An isometric exploration and resource management game with eco-cyberpunk aesthetics.",
@@ -218,7 +208,14 @@ const projectsData = [
       tag: ["All", "Games"],
       previewUrl: "/Project22",
     },
-
+    {
+      id: 23,
+      title: "Whispers of the Bloom",
+      description: "Tea Party with sentient flowers.",
+      image: "/images/projects/18.PNG",
+      tag: ["All", "Games"],
+      previewUrl: "/Project23",
+    },
   ];
 
   const ProjectsSection = () => {
