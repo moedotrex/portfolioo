@@ -23,6 +23,8 @@ const HeroSection = () => {
                 1000,
                 'an Artist',
                 1000,
+                'a Technical Artist',
+                1000,
                 'a Programmer',
                 1000
               ]}
