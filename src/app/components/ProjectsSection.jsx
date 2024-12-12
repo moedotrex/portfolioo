@@ -29,6 +29,7 @@ const Project19 = dynamic(() => import('./Projects/Project19'), { ssr: false });
 const Project20 = dynamic(() => import('./Projects/Project20'), { ssr: false });
 const Project21 = dynamic(() => import('./Projects/Project21'), { ssr: false });
 const Project22 = dynamic(() => import('./Projects/Project22'), { ssr: false });
+const Project23 = dynamic(() => import('./Projects/Project23'), { ssr: false });
 
 const projectsData = [
   {
@@ -206,6 +207,14 @@ const projectsData = [
       image: "/images/projects/18.PNG",
       tag: ["All", "Art"],
       previewUrl: "/Project22",
+    },
+    {
+      id: 23,
+      title: "Hottie's Cream",
+      description: "A group of alien friends going through adventures and facing the difficulties of entering adolescence living in an highly advanced galactic empire.",
+      image: "/images/projects/18.PNG",
+      tag: ["All", "Art"],
+      previewUrl: "/Project23",
     },
   ];
 
