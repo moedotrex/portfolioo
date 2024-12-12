@@ -33,6 +33,16 @@ const Project23 = dynamic(() => import('./Projects/Project23'), { ssr: false });
 
 const projectsData = [
   {
+    id: 23,
+    title: "Whispers of the Bloom",
+    description: "Tea Party with sentient flowers.",
+    image: "/images/projects/18.PNG",
+    tag: ["All", "Games"],
+    previewUrl: "/Project23",
+  },
+  
+  {
+    
     id: 1,
     title: "Plantscape",
     description: "An isometric exploration and resource management game with eco-cyberpunk aesthetics.",
@@ -179,43 +189,36 @@ const projectsData = [
     {
       id: 19,
       title: "Hottie's Cream",
-      description: "A group of alien friends going through adventures and facing the difficulties of entering adolescence living in an highly advanced galactic empire.",
+      description: "Ice cream scooping simulator.",
       image: "/images/projects/18.PNG",
-      tag: ["All", "Art"],
+      tag: ["All", "Games"],
       previewUrl: "/Project19",
     },
     {
       id: 20,
-      title: "Hottie's Cream",
-      description: "A group of alien friends going through adventures and facing the difficulties of entering adolescence living in an highly advanced galactic empire.",
+      title: "Monkeying Around",
+      description: "VR Climbing game.",
       image: "/images/projects/18.PNG",
-      tag: ["All", "Art"],
+      tag: ["All", "Games", "AR/VR"],
       previewUrl: "/Project20",
     },
     {
       id: 21,
-      title: "Hottie's Cream",
-      description: "A group of alien friends going through adventures and facing the difficulties of entering adolescence living in an highly advanced galactic empire.",
+      title: "Sakana Smash",
+      description: "Fish fighting game",
       image: "/images/projects/18.PNG",
-      tag: ["All", "Art"],
+      tag: ["All", "Games"],
       previewUrl: "/Project21",
     },
     {
       id: 22,
-      title: "Hottie's Cream",
-      description: "A group of alien friends going through adventures and facing the difficulties of entering adolescence living in an highly advanced galactic empire.",
+      title: "Interstellar Countdown",
+      description: "Phidget game.",
       image: "/images/projects/18.PNG",
-      tag: ["All", "Art"],
+      tag: ["All", "Games"],
       previewUrl: "/Project22",
     },
-    {
-      id: 23,
-      title: "Hottie's Cream",
-      description: "A group of alien friends going through adventures and facing the difficulties of entering adolescence living in an highly advanced galactic empire.",
-      image: "/images/projects/18.PNG",
-      tag: ["All", "Art"],
-      previewUrl: "/Project23",
-    },
+
   ];
 
   const ProjectsSection = () => {
