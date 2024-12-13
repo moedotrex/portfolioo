@@ -204,7 +204,7 @@ const projectsData = [
       id: 22,
       title: "Interstellar Countdown",
       description: "Phidget game.",
-      image: "/images/projects/18.PNG",
+      image: "/images/projects/22.gif",
       tag: ["All", "Games"],
       previewUrl: "/Project22",
     },
