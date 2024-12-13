@@ -212,7 +212,7 @@ const projectsData = [
       id: 23,
       title: "Whispers of the Bloom",
       description: "Tea Party with sentient flowers.",
-      image: "/images/projects/18.PNG",
+      image: "/images/projects/23.gif",
       tag: ["All", "Games"],
       previewUrl: "/Project23",
     },
