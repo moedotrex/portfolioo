@@ -180,7 +180,7 @@ const projectsData = [
       id: 19,
       title: "Hottie's Cream",
       description: "Ice cream scooping simulator.",
-      image: "/images/projects/19.GIF",
+      image: "/images/projects/191.GIF",
       tag: ["All", "Games"],
       previewUrl: "/Project19",
     },
