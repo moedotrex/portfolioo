@@ -21,12 +21,21 @@ const Project20 = () => {
           </p>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
             <Image src="/images/maa1.png" alt="maa1" width={600} height={400} />
-            <Image src="/images/maa3.png" alt="maa3" width={600} height={400} />
+          </div>
+          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
+          <Image src="/images/maa3.png" alt="maa3" width={600} height={400} />
           </div>
           <p className="text-xl text-gray-400 font-bold mb-2">Texturing</p>
           <p className="text-lg text-gray-400 mb-4">
           test text
           </p>
+        </div>
+        <div className="mb-3">
+            <video width="100%" height="auto" controls>
+              <source src="/images/maCutscene.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+            <p className="text-md text-gray-500 mt-2">Final Animatic</p>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">Rigging and Animations</p>

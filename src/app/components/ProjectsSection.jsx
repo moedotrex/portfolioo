@@ -188,7 +188,7 @@ const projectsData = [
       id: 20,
       title: "Monkeying Around",
       description: "VR Climbing game.",
-      image: "/images/projects/18.PNG",
+      image: "/images/projects/20.png",
       tag: ["All", "Games", "AR/VR"],
       previewUrl: "/Project20",
     },
