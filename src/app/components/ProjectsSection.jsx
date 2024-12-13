@@ -196,7 +196,7 @@ const projectsData = [
       id: 21,
       title: "Sakana Smash",
       description: "Fish fighting game",
-      image: "/images/projects/18.PNG",
+      image: "/images/projects/21.gif",
       tag: ["All", "Games"],
       previewUrl: "/Project21",
     },
