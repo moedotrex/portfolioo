@@ -30,7 +30,7 @@ const Project20 = () => {
           test text
           </p>
         </div>
-        <div className="mb-3">
+        <div>
             <video width="100%" height="auto" controls>
               <source src="/images/maCutscene.mp4" type="video/mp4" />
               Your browser does not support the video tag.
