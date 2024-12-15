@@ -10,7 +10,7 @@ const Project19 = () => {
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
           <div className="mb-4">
-            <Image src="/images/icecreamgameplay.gif" alt="icmain" width={610} height={410} />
+            <Image src="/images/icecreamgameplay.gif" alt="icmain" width={700} height={500} />
           </div>
           <p className="text-md text-gray-500 mb-4">
            Gameplay
@@ -27,10 +27,10 @@ const Project19 = () => {
           In this project, I served as an artist, contributing to the concept art for characters and the user interface. I created 3D models with custom textures using Substance Painter, and developed toon and glass shaders to elevate the visuals of the scene. Once the models were completed, I integrated everything into Unity. Additionally, I assisted with the background line art and contributed to the coloring and shading of several characters, helping to bring the vibrant world of Hottie&apos;s Cream to life.
           </p>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
-          <Image src="/images/icecreamsketches1.png" alt="icsketch1" width={600} height={400} />
+          <Image src="/images/icecreamsketches1.PNG" alt="icsketch1" width={600} height={400} />
           </div>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
-          <Image src="/images/icecreamsketches2.png" alt="icsketch2" width={600} height={400} />
+          <Image src="/images/icecreamsketches2.PNG" alt="icsketch2" width={600} height={400} />
           </div>
         </div>
         <div className="md:w-1/2 md:ml-8">
@@ -47,11 +47,11 @@ const Project19 = () => {
         </div>
         <div className="w-full mb-4 mt-4 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ maxHeight: 300, width: 'auto' }} />
+              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
               <p className="text-md text-gray-500 mt-2 mb-4">Textures made in Substance Painter</p>
              </div>
             <div className="w-1/2 pl-2">
-              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ maxHeight: 300, width: 'auto' }} />
+              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
             </div>
             <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
               <Image src="/images/icecreamjar.gif" alt="icjar" width={600} height={400} />
