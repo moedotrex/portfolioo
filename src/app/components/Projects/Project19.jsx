@@ -70,11 +70,11 @@ const Project19 = () => {
         </div>
         <div className="w-full mb-4 mt-4 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ height: 'auto', maxWidth: 330 }} />
+              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ height: 'auto', maxWidth: 328 }} />
               <p className="text-md text-gray-500 mt-2 mb-4">Textures made in Substance Painter</p>
              </div>
             <div className="w-1/2 pl-2">
-              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ height: 'auto', maxWidth: 330 }} />
+              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ height: 'auto', maxWidth: 328 }} />
             </div>
           </div>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
