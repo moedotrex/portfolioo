@@ -33,6 +33,14 @@ const Project23 = dynamic(() => import('./Projects/Project23'), { ssr: false });
 
 const projectsData = [
   {
+    id: 19,
+    title: "Hottie's Cream",
+    description: "Ice cream scooping simulator.",
+    image: "/images/projects/19.gif",
+    tag: ["All", "Games"],
+    previewUrl: "/Project19",
+  },
+  {
     id: 1,
     title: "Plantscape",
     description: "An isometric exploration and resource management game with eco-cyberpunk aesthetics.",
@@ -175,14 +183,6 @@ const projectsData = [
       image: "/images/projects/18.PNG",
       tag: ["All", "Art"],
       previewUrl: "/Project18",
-    },
-    {
-      id: 19,
-      title: "Hottie's Cream",
-      description: "Ice cream scooping simulator.",
-      image: "/images/projects/19.gif",
-      tag: ["All", "Games"],
-      previewUrl: "/Project19",
     },
     {
       id: 20,
