@@ -57,7 +57,7 @@ const Project19 = () => {
               <Image src="/images/icecreamjar.gif" alt="icjar" width={600} height={400} />
             </div>
             <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
-              <Image src="/images/icecreamjargraph.gif" alt="icjargraph" width={600} height={400} />
+              <Image src="/images/icecreamjargraph.png" alt="icjargraph" width={600} height={400} />
             </div>
             <p className="text-md text-gray-500 mt-2 mb-4">Glass Shader</p>
           </div>
