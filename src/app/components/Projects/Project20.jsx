@@ -49,10 +49,10 @@ const Project20 = () => {
             <Image src="/images/maa2.png" alt="maa2" width={700} height={500} />
           </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/maa1.png" alt="maa1" width={350} height={450} />
-            <Image src="/images/maa3.png" alt="maa3" width={350} height={450} />
+            <Image src="/images/maa1.png" alt="maa1" width={347} height={450} />
+            <Image src="/images/maa3.png" alt="maa3" width={347} height={450} />
         </div>
-        <p className="text-md text-gray-500 mb-4">3D Models in Unity</p>
+        <p className="text-md text-gray-500 mb-4">3D Models I made</p>
         </div>
         <div>
         </div>
