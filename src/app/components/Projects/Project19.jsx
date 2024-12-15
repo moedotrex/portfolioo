@@ -77,7 +77,7 @@ const Project19 = () => {
               <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ height: 'auto', maxWidth: 328 }} />
             </div>
           </div>
-          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
+          <div className="mb-4"style={{ display: 'flex', gap: '10px' }}>
               <Image src="/images/icecreamjar.gif" alt="icjar" width={700} height={500} />
             </div>
             <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
