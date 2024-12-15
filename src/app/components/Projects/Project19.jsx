@@ -27,11 +27,20 @@ const Project19 = () => {
           In this project, I served as an artist, contributing to the concept art for characters and the user interface. I created 3D models with custom textures using Substance Painter, and developed toon and glass shaders to elevate the visuals of the scene. Once the models were completed, I integrated everything into Unity. Additionally, I assisted with the background line art and contributed to the coloring and shading of several characters, helping to bring the vibrant world of Hottie&apos;s Cream to life.
           </p>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
+          <Image src="/images/icecreambg.jpg" alt="icbg" width={600} height={400} />
+          </div>
+          <p className="text-md text-gray-500 mt-2 mb-4">Game Background</p>
+          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
+          <Image src="/images/icecreammenu.PNG" alt="icmenu" width={600} height={400} />
+          </div>
+          <p className="text-md text-gray-500 mt-2 mb-4">Game Menu</p>
+          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
           <Image src="/images/icecreamsketches1.PNG" alt="icsketch1" width={600} height={400} />
           </div>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
           <Image src="/images/icecreamsketches2.PNG" alt="icsketch2" width={600} height={400} />
           </div>
+          <p className="text-md text-gray-500 mt-2 mb-4">Concept Sketches</p>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
@@ -47,20 +56,20 @@ const Project19 = () => {
         </div>
         <div className="w-full mb-4 mt-4 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
+              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ maxHeight: 300, width: 'auto' }} />
               <p className="text-md text-gray-500 mt-2 mb-4">Textures made in Substance Painter</p>
              </div>
             <div className="w-1/2 pl-2">
-              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ maxHeight: 400, width: 'auto' }} />
+              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ maxHeight: 300, width: 'auto' }} />
             </div>
-            <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
+          </div>
+          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
               <Image src="/images/icecreamjar.gif" alt="icjar" width={600} height={400} />
             </div>
             <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
               <Image src="/images/icecreamjargraph.png" alt="icjargraph" width={600} height={400} />
             </div>
             <p className="text-md text-gray-500 mt-2 mb-4">Glass Shader</p>
-          </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This project was created for Round 1 of the Building Virtual Worlds class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in two weeks by a team of four.
