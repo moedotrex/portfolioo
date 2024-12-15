@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 19,
     title: "Hottie's Cream",
-    description: "Ice cream scooping simulator.",
+    description: "An ice cream scooping simulator designed with Xbox Adaptive Controllers.",
     image: "/images/projects/19.gif",
     tag: ["All", "Games"],
     previewUrl: "/Project19",
