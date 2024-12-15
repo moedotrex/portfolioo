@@ -56,10 +56,10 @@ const Project20 = () => {
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/mass1.png" alt="mass1" width={700} height={500} />
           </div>
-          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '5px' }}>
+          <div className="mb-2 mt-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/mass2.png" alt="mass2" width={700} height={500} />
           </div>
-        <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
+        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/mass4.png" alt="mass4" width={350} height={450} />
             <Image src="/images/mass5.png" alt="mass5" width={350} height={450} />
         </div>
