@@ -46,6 +46,15 @@ const Project19 = () => {
           <Image src="/images/icecreamtoongraph.png" alt="ictoon" width={700} height={500} />
           </div>
           <p className="text-md text-gray-500 mt-2 mb-4">Toon Shader Graph</p>
+          <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
+          <p className="text-lg text-gray-400 mb-4">
+          This project was created for Round 1 of the Building Virtual Worlds class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in two weeks by a team of four.
+          </p>
+          <div className="text-lg text-gray-400 mb-4">
+                <li>Art by Moe Aguilar and Skye Gao</li>
+                <li>Sound design by Yuhuai Huang</li>
+                <li>Programming by Yifan Jiang</li>
+          </div>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
@@ -61,11 +70,11 @@ const Project19 = () => {
         </div>
         <div className="w-full mb-4 mt-4 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ height: 'auto', maxWidth: 300 }} />
+              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ height: 'auto', maxWidth: 330 }} />
               <p className="text-md text-gray-500 mt-2 mb-4">Textures made in Substance Painter</p>
              </div>
             <div className="w-1/2 pl-2">
-              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ height: 'auto', maxWidth: 300 }} />
+              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ height: 'auto', maxWidth: 330 }} />
             </div>
           </div>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
@@ -88,15 +97,12 @@ const Project19 = () => {
               <source src="/images/icecreampromo.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
-        <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
-          <p className="text-lg text-gray-400 mb-4">
-          This project was created for Round 1 of the Building Virtual Worlds class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in two weeks by a team of four.
-          </p>
-          <div className="text-lg text-gray-400 mb-4">
-                <li>Art by Moe Aguilar and Skye Gao</li>
-                <li>Sound design by Yuhuai Huang</li>
-                <li>Programming by Yifan Jiang</li>
-          </div>
+            <p className="text-md text-gray-500 mt-2 mb-4">Promotional video</p>
+            <video width="100%" height="auto" controls>
+              <source src="/images/icecreamcontrols2.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+            <p className="text-md text-gray-500 mt-2 mb-4">Describing our controls</p>
         </div>
       </div>
     </div>
