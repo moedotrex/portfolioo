@@ -37,14 +37,6 @@ const Project20 = () => {
           <p className="text-lg text-gray-400 mb-4">
           I rigged the monkey model in Blender, and then animated it within Unity, alongside other 3D assets, to develop an emotionally impactful cutscene that enriches the player&apos;s experience.
           </p>
-        <div className="mb-4">
-        <Image src="/images/masketches.PNG" alt="masketches" width={700} height={500} />
-        </div>
-        <p className="text-md text-gray-500 mb-5">First monkey sketches</p>
-        <div className="mb-4">
-        <Image src="/images/mamonkeyver2.png" alt="mamonkeyver2" width={700} height={500} />
-        </div>
-        <p className="text-md text-gray-500 mt-2">Early monkey textures</p>
         <div className="mb-2 mt-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/maa2.png" alt="maa2" width={700} height={500} />
           </div>
@@ -53,6 +45,14 @@ const Project20 = () => {
             <Image src="/images/maa3.png" alt="maa3" width={347} height={450} />
         </div>
         <p className="text-md text-gray-500 mb-4">3D Models I made</p>
+        <div className="mb-4">
+        <Image src="/images/masketches.PNG" alt="masketches" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mb-5">First monkey sketches</p>
+        <div className="mb-4">
+        <Image src="/images/mamonkeyver2.png" alt="mamonkeyver2" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2">Early monkey textures</p>
         </div>
         <div>
         </div>
