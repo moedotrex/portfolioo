@@ -83,6 +83,11 @@ const Project19 = () => {
             <Image src="/images/icecreamchar3.PNG" alt="icchar3" width={300} height={400} />
             <Image src="/images/icecreamchar4.PNG" alt="icchar4" width={300} height={400} />
           </div>
+          <p className="text-md text-gray-500 mt-2 mb-4">Character Designs</p>
+          <video width="100%" height="auto" controls>
+              <source src="/images/icecreampromo.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This project was created for Round 1 of the Building Virtual Worlds class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in two weeks by a team of four.
