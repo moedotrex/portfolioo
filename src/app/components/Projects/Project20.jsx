@@ -22,21 +22,33 @@ const Project20 = () => {
           <p className="text-lg text-gray-400 mb-4">
           As an artist on this project, I focused on creating the monkey&apos;s 3D model, developing concept sketches, rigging, and designing custom painterly textures. I also created a mouse plushie model with the same painterly textures and created additional 3D assets to enhance the scene. Furthermore, I worked on an animated cutscene to provide players with essential backstory and context.
           </p>
-          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/maa1.png" alt="maa1" width={600} height={400} />
-          </div>
-          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
-          <Image src="/images/maa3.png" alt="maa3" width={600} height={400} />
-          </div>
-          <p className="text-xl text-gray-400 font-bold mb-2">Rigging and Animations</p>
-          <p className="text-lg text-gray-400 mb-4">
-          I rigged the monkey model in Blender, and then animated it within Unity, alongside other 3D assets, to develop an emotionally impactful cutscene that enriches the player&apos;s experience.
-          </p>
           <video width="100%" height="auto" controls>
               <source src="/images/maCutscene.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="text-md text-gray-500 mt-2">Final Cutscene</p>
+            <p className="text-xl text-gray-400 font-bold mb-2">Rigging and Animations</p>
+          <p className="text-lg text-gray-400 mb-4">
+          I rigged the monkey model in Blender, and then animated it within Unity, alongside other 3D assets, to develop an emotionally impactful cutscene that enriches the player&apos;s experience.
+          </p>
+          <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/mass1.png" alt="mass1" width={300} height={400} />
+            <Image src="/images/mass2.png" alt="mass2" width={300} height={400} />
+        </div>
+        <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/mass4.png" alt="mass4" width={300} height={400} />
+            <Image src="/images/mass5.png" alt="mass5" width={300} height={400} />
+        </div>
+        <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/mamonkeyturnaround.gif" alt="mamonkeyta" width={300} height={400} />
+            <Image src="/images/mamouseturnaround.gif" alt="mamouseta" width={300} height={400} />
+        </div>
+          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
+            <Image src="/images/mamonkeyver3.png" alt="mamonkeyver3" width={600} height={400} />
+          </div>
+          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
+          <Image src="/images/mamousetexts.png" alt="mamousetexts" width={600} height={400} />
+          </div>
         </div>
         <div>
         </div>
@@ -52,18 +64,7 @@ const Project20 = () => {
           <p className="text-lg text-gray-400 mb-4">
           After modeling in Blender, I generated the object&apos;s normal map and used Procreate to manually color match and paint textures directly onto it. This texture was then imported back into Blender to create a tangent normal map for integration into Unity.
         </p>
-        <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mass1.png" alt="mass1" width={300} height={400} />
-            <Image src="/images/mass2.png" alt="mass2" width={300} height={400} />
-        </div>
-        <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mass4.png" alt="mass4" width={300} height={400} />
-            <Image src="/images/mass5.png" alt="mass5" width={300} height={400} />
-        </div>
-        <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mamonkeyturnaround.gif" alt="mamonkeyta" width={300} height={400} />
-            <Image src="/images/mamouseturnaround.gif" alt="mamouseta" width={300} height={400} />
-        </div>
+       
         </div>
       </div>
     </div>
