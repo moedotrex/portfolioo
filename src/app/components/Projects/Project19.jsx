@@ -80,6 +80,7 @@ const Project19 = () => {
           <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
               <Image src="/images/icecreamjar.gif" alt="icjar" width={700} height={500} />
             </div>
+            <p className="text-md text-gray-500 mt-2 mb-4">Glass Shader</p>
             <div className="mb-4 mt-3"style={{ display: 'flex', gap: '10px' }}>
               <Image src="/images/icecreamjargraph.png" alt="icjargraph" width={700} height={500} />
             </div>

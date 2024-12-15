@@ -46,6 +46,14 @@ const Project20 = () => {
         </div>
         <p className="text-md text-gray-500 mt-2">Early monkey textures</p>
         </div>
+        <div className="mb-2 mt-2"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/maa2.png" alt="maa2" width={700} height={500} />
+          </div>
+        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/maa1.png" alt="maa1" width={350} height={450} />
+            <Image src="/images/maa3.png" alt="maa3" width={350} height={450} />
+        </div>
+        <p className="text-md text-gray-500 mb-4">3D Models in Unity</p>
         <div>
         </div>
         <div className="md:w-1/2 md:ml-8">
