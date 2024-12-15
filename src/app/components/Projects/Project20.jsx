@@ -61,10 +61,10 @@ const Project20 = () => {
           <p className="text-lg text-gray-400 mb-4">
           Monkeying Around is a VR game that puts players in the shoes of a monkey toy, separated from its mother in the basement of a toy store. Players must navigate their way back to her by climbing between shelf levels, utilizing vertical movement to overcome various obstacles. The primary mechanic revolves around the rhythmic movement of the player&apos;s hands, which guides them through the environment. An emotional narrative unfolds through an animated cutscene, allowing players to develop a deeper emotional connection with the character.
           </p>
-          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '5px' }}>
+          <div className="mb-2 mt-5"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/mass1.png" alt="mass1" width={700} height={500} />
           </div>
-          <div className="mb-2 mt-2"style={{ display: 'flex', gap: '5px' }}>
+          <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/mass2.png" alt="mass2" width={700} height={500} />
           </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
