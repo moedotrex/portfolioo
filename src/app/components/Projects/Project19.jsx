@@ -22,6 +22,7 @@ const Project19 = () => {
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
           <Image src="/images/icecreammodels.png" alt="icm" width={700} height={500} />
           </div>
+          <p className="text-md text-gray-500 mb-4">3D Models in Unity</p>
           <p className="text-xl text-gray-400 font-bold mb-2">Art</p>
           <p className="text-lg text-gray-400 mb-4">
           In this project, I served as an artist, contributing to the concept art for characters and the user interface. I created 3D models with custom textures using Substance Painter, and developed toon and glass shaders to elevate the visuals of the scene. Once the models were completed, I integrated everything into Unity. Additionally, I assisted with the background line art and contributed to the coloring and shading of several characters, helping to bring the vibrant world of Hottie&apos;s Cream to life.
