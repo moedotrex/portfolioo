@@ -60,11 +60,11 @@ const Project19 = () => {
         </div>
         <div className="w-full mb-4 mt-4 flex">
              <div className="w-1/2 pr-2">
-              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ maxHeight: 300, width: 'auto' }} />
+              <img src="/images/icecreamvanilla.png" alt="icvanilla" className="w-full mb-2 h-auto" style={{ maxHeight: 250, width: 'auto' }} />
               <p className="text-md text-gray-500 mt-2 mb-4">Textures made in Substance Painter</p>
              </div>
             <div className="w-1/2 pl-2">
-              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ maxHeight: 300, width: 'auto' }} />
+              <img src="/images/icecreamchocolate.png" alt="icchoco" className="w-full mb-2 h-auto" style={{ maxHeight: 250, width: 'auto' }} />
             </div>
           </div>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
@@ -73,7 +73,15 @@ const Project19 = () => {
             <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
               <Image src="/images/icecreamjargraph.png" alt="icjargraph" width={700} height={500} />
             </div>
-            <p className="text-md text-gray-500 mt-2 mb-4">Glass Shader</p>
+            <p className="text-md text-gray-500 mt-2 mb-4">Glass Shader Graph</p>
+            <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/icecreamchar1.PNG" alt="icchar1" width={300} height={400} />
+            <Image src="/images/icecreamchar2.PNG" alt="icchar2" width={300} height={400} />
+          </div>
+          <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/icecreamchar3.PNG" alt="icchar3" width={300} height={400} />
+            <Image src="/images/icecreamchar4.PNG" alt="icchar4" width={300} height={400} />
+          </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This project was created for Round 1 of the Building Virtual Worlds class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in two weeks by a team of four.
