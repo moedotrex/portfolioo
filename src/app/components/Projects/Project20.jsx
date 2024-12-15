@@ -27,16 +27,16 @@ const Project20 = () => {
               Your browser does not support the video tag.
             </video>
             <p className="text-md text-gray-500 mt-2">Final Cutscene</p>
-            <p className="text-xl text-gray-400 font-bold mb-2">Rigging and Animations</p>
-          <p className="text-lg text-gray-400 mb-4">
-          I rigged the monkey model in Blender, and then animated it within Unity, alongside other 3D assets, to develop an emotionally impactful cutscene that enriches the player&apos;s experience.
-          </p>
           <div className="mb-4">
         <Image src="/images/mamonkeyrig.png" alt="marig" width={700} height={500} />
         </div>
         <div className="mb-4">
         <Image src="/images/mamonkeyjump.gif" alt="mamonkeyjump" width={700} height={500} />
         </div>
+        <p className="text-xl text-gray-400 font-bold mb-2">Rigging and Animations</p>
+          <p className="text-lg text-gray-400 mb-4">
+          I rigged the monkey model in Blender, and then animated it within Unity, alongside other 3D assets, to develop an emotionally impactful cutscene that enriches the player&apos;s experience.
+          </p>
         <div className="mb-4">
         <Image src="/images/masketches.PNG" alt="masketches" width={700} height={500} />
         </div>
@@ -81,9 +81,9 @@ const Project20 = () => {
           After modeling in Blender, I generated the object&apos;s normal map and used Procreate to manually color match and paint textures directly onto it. This texture was then imported back into Blender to create a tangent normal map for integration into Unity.
         </p>
         <div className="mb-4"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/manormal1.png" alt="manormal1" width={350} height={450} />
-            <Image src="/images/manormal2.PNG" alt="manormal2" width={350} height={450} />
-            <Image src="/images/manormal3.PNG" alt="manormal3" width={350} height={450} />
+            <Image src="/images/manormal1.png" alt="manormal1" width={230} height={450} />
+            <Image src="/images/manormal2.PNG" alt="manormal2" width={230} height={450} />
+            <Image src="/images/manormal3.PNG" alt="manormal3" width={230} height={450} />
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
