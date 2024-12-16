@@ -5,13 +5,17 @@ import Link from 'next/link';
 
 const VFXReel = () => {
   return (
-    <section className=" mt-20">
+    <section className=" mt-20 mb-15">
       <div className='grid grid-cols-1 sm:grid-cols-12'>
-        <div className='col-span-7 place-self-center text-center sm:text-left'>
+        <div className='col-span-7 place-self-center text-center'>
           <h1 className="text-white mb-6 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
-            TEST VFX REEL
+            Technical Art (VFX) Reel
           </h1>
         </div>
+        <video width="100%" height="auto" controls>
+              <source src="/images/moevfxreel.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
       </div>
     </section>
   );
