@@ -34,7 +34,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className='text-[#ADB7BE] text-base sm:text-lg mb-4 lf:text-xl pb-6'>
-            An adept game developer and technical artist deeply enthusiastic about telling stories and the world of video games. Eagerly pursuing a compelling position in an ever-evolving gaming landscape, where I can apply my expertise to craft immersive and inventive gaming experiences for users.
+            An adept game developer and technical artist deeply enthusiastic about telling stories and the world of video games. Pursuing a position in the ever-evolving gaming landscape, where I can apply my expertise to craft immersive gaming experiences for users.
           </p>
           <div className="mt-4">
             <Link href="/AboutSection">
