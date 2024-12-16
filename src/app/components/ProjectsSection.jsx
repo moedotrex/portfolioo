@@ -33,6 +33,14 @@ const Project23 = dynamic(() => import('./Projects/Project23'), { ssr: false });
 
 const projectsData = [
   {
+    id: 21,
+    title: "Sakana Smash",
+    description: "Multiplayer party game where players punch each other as fish in a fun, sushi-themed arena.",
+    image: "/images/projects/21.gif",
+    tag: ["All", "Games"],
+    previewUrl: "/Project21",
+  },
+  {
     id: 20,
     title: "Monkeying Around",
     description: "A VR adventure game where players embody a monkey toy navigating a toy store's basement, using intuitive climbing mechanics.",
@@ -191,14 +199,6 @@ const projectsData = [
       image: "/images/projects/18.PNG",
       tag: ["All", "Art"],
       previewUrl: "/Project18",
-    },
-    {
-      id: 21,
-      title: "Sakana Smash",
-      description: "Fish fighting game",
-      image: "/images/projects/21.gif",
-      tag: ["All", "Games"],
-      previewUrl: "/Project21",
     },
     {
       id: 22,
