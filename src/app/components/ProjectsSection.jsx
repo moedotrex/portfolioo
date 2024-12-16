@@ -33,6 +33,14 @@ const Project23 = dynamic(() => import('./Projects/Project23'), { ssr: false });
 
 const projectsData = [
   {
+    id: 20,
+    title: "Monkeying Around",
+    description: "A VR adventure game where players embody a monkey toy navigating a toy store's basement, using intuitive climbing mechanics.",
+    image: "/images/projects/20.gif",
+    tag: ["All", "Games", "AR/VR"],
+    previewUrl: "/Project20",
+  },
+  {
     id: 23,
     title: "Whispers of the Bloom",
     description: "Tea Party with sentient flowers experience.",
@@ -55,14 +63,6 @@ const projectsData = [
     image: "/images/projects/21.gif",
     tag: ["All", "Games"],
     previewUrl: "/Project21",
-  },
-  {
-    id: 20,
-    title: "Monkeying Around",
-    description: "A VR adventure game where players embody a monkey toy navigating a toy store's basement, using intuitive climbing mechanics.",
-    image: "/images/projects/20.gif",
-    tag: ["All", "Games", "AR/VR"],
-    previewUrl: "/Project20",
   },
   {
     id: 19,
