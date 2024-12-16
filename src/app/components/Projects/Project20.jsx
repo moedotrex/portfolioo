@@ -44,7 +44,7 @@ const Project20 = () => {
             <Image src="/images/maa1.png" alt="maa1" width={347} height={450} />
             <Image src="/images/maa3.png" alt="maa3" width={347} height={450} />
         </div>
-        <p className="text-md text-gray-500 mb-4">3D Models I made</p>
+        <p className="text-md text-gray-500 mb-4">3D models I made</p>
         <div className="mb-4">
         <Image src="/images/masketches.PNG" alt="masketches" width={700} height={500} />
         </div>
