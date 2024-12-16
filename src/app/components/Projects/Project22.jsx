@@ -35,7 +35,7 @@ const Project22 = () => {
         <div className="mb-4">
         <Image src="/images/intercswirlgraph.png" alt="intercswirlgraph" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2">Shader graphs made in Unity</p>
+        <p className="text-md text-gray-500 mt-2 mb-5">Shader graphs made in Unity</p>
         <video width="100%" height="auto" controls>
               <source src="/images/intercountdowncontrols.mp4" type="video/mp4" />
               Your browser does not support the video tag.
