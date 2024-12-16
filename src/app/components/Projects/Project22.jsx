@@ -22,10 +22,20 @@ const Project22 = () => {
           <p className="text-lg text-gray-400 mb-4">
           We designed a custom phidget controller housed in a 3D printed box, incorporating different types of phidgets that makes for a unique game play experience. The use of physical dials, buttons and sliders is the most interactive and engulfing way to engage participants in the control &apos;panel&apos; of an alien spacecraft.
           </p>
-          <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/outer2.PNG" alt="o2" width={300} height={200} />
-            <Image src="/images/outer1.PNG" alt="o1" width={300} height={200} />
-          </div>
+          <div className="mb-4">
+        <Image src="/images/intercconsolex.gif" alt="intercconsole" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2">Hologram Shader</p>
+        <div className="mb-4">
+        <Image src="/images/intercholograph.png" alt="intercholograph" width={700} height={500} />
+        </div>
+        <div className="mb-4">
+        <Image src="/images/intercsinegraph.png" alt="intercsinegraph" width={700} height={500} />
+        </div>
+        <div className="mb-4">
+        <Image src="/images/intercswirlgraph.png" alt="intercswirlgraph" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2">Shader Graphs made in Unity</p>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
@@ -33,7 +43,7 @@ const Project22 = () => {
           In this engaging experience, a pair of players collaborate to manage an alien device as stowaways on an alien vessel. One player interacts with a console screen that presents information and tasks, while their partner, guided by their teammate&apos;s instructions, manipulates a physical box equipped with various Phidget devices—such as sliders, sound sensors, and dials—to complete the tasks. This unique setup immerses participants in an interstellar countdown, heightening the tension as they work together to escape the void of space. The combination of tactile interaction and strategic teamwork creates a thrilling sensory encounter that intensifies the urgency of their quest for survival in the cosmos.
           </p>
         <div className="mb-4">
-        <Image src="/images/outer0.PNG" alt="o0" width={600} height={400} />
+        <Image src="/images/intercbox.gif" alt="intercbox" width={700} height={500} />
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">Art</p>
           <p className="text-lg text-gray-400 mb-4">
