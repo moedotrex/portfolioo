@@ -7,7 +7,7 @@ const VFXReel = () => {
   return (
     <section className=" mt-10 mb-15">
         <div className='col-span-7 place-self-center text-center'>
-          <h1 className="text-white mb-6 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
+          <h1 className="text-white mb-6 text-3xl sm:text-5xl lg:text-6xl font-extrabold">
             Technical Art (VFX) Reel
           </h1>
         </div>
