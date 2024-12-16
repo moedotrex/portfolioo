@@ -31,7 +31,7 @@ const Project21 = () => {
         <div className="mb-4">
         <Image src="/images/fishtexts.png" alt="fishtexts" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2">Shaders graphs made in Unity with custom Textures</p>
+        <p className="text-md text-gray-500 mt-2">Shaders graphs made in Unity with custom Textures made in Procreate</p>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This project was created for Round 3 of the Building Virtual Worlds class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in one week by a team of five.
