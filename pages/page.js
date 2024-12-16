@@ -52,7 +52,6 @@ const Page = () => {
       {router.pathname === '/AboutSection' && <AboutSection />}
       {router.pathname === '/ProjectsSection' && <ProjectsSection />}
       {router.pathname === '/Contact' && <EmailSection />}
-      {/* ... (add other projects) */}
       <Footer />
     </div>
   );
