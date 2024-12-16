@@ -7,11 +7,11 @@ const VFXReel = () => {
   return (
     <section className=" mt-10 mb-15">
         <div className='col-span-7 place-self-center text-center'>
-          <h1 className="text-white mb-6 text-3xl sm:text-5xl lg:text-5xl font-extrabold">
+          <h2 className="text-white mb-6 text-4xl sm:text-6xl lg:text-6xl font-extrabold">
             Technical Art (VFX) Reel
-          </h1>
+          </h2>
         </div>
-      <div className="col-span-7 place-self-center mt-4">
+      <div className="justify-center items-center mt-4">
         <video width="70%" height="auto" controls>
               <source src="/images/moevfxreel.mp4" type="video/mp4" />
               Your browser does not support the video tag.
