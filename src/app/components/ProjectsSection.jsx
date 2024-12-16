@@ -33,6 +33,14 @@ const Project23 = dynamic(() => import('./Projects/Project23'), { ssr: false });
 
 const projectsData = [
   {
+    id: 22,
+    title: "Interstellar Countdown",
+    description: "Cooperative game where players work together to control an alien device, using a physical box with Phidgets that represents an alien energy core.",
+    image: "/images/projects/22.gif",
+    tag: ["All", "Games"],
+    previewUrl: "/Project22",
+  },
+  {
     id: 21,
     title: "Sakana Smash",
     description: "Multiplayer party game where players punch each other as fish in a fun, sushi-themed arena.",
@@ -199,14 +207,6 @@ const projectsData = [
       image: "/images/projects/18.PNG",
       tag: ["All", "Art"],
       previewUrl: "/Project18",
-    },
-    {
-      id: 22,
-      title: "Interstellar Countdown",
-      description: "Phidget game.",
-      image: "/images/projects/22.gif",
-      tag: ["All", "Games"],
-      previewUrl: "/Project22",
     },
     {
       id: 23,
