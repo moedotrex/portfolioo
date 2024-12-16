@@ -8,7 +8,7 @@ import AboutSection from '../src/app/components/AboutSection';
 import ProjectsSection from '../src/app/components/ProjectsSection';
 import Footer from '../src/app/components/Footer';
 import EmailSection from '../src/app/components/EmailSection';
-// ... (import other projects)
+import VFXReel from '@/app/components/VFXReel';
 
 var stripe_load = () => {
   if (process.browser) {
@@ -30,6 +30,7 @@ const Home = () => {
     <div className="container mt-24 mx-auto px-12 py-4">
       <HeroSection />
       <ProjectsSection />
+      <VFXReel />
     </div>
   );
 };
