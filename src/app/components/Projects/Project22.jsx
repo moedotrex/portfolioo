@@ -23,7 +23,7 @@ const Project22 = () => {
           We designed a custom phidget controller housed in a 3D printed box, incorporating different types of phidgets that makes for a unique game play experience. The use of physical dials, buttons and sliders is the most interactive and engulfing way to engage participants in the control &apos;panel&apos; of an alien spacecraft.
           </p>
           <div className="mb-4">
-        <Image src="/images/intercconsolex.gif" alt="intercconsole" width={700} height={500} />
+        <Image src="/images/intercconsole.gif" alt="intercconsole" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2">Hologram Shader</p>
         <div className="mb-4">
@@ -35,7 +35,7 @@ const Project22 = () => {
         <div className="mb-4">
         <Image src="/images/intercswirlgraph.png" alt="intercswirlgraph" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2">Shader Graphs made in Unity</p>
+        <p className="text-md text-gray-500 mt-2">Shader graphs made in Unity</p>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
@@ -49,7 +49,19 @@ const Project22 = () => {
           <p className="text-lg text-gray-400 mb-4">
           In this project, I took on the role of an artist, contributing to the concept and design of the user interface. I also created custom shaders for the hologram console and its various elements, enhancing the visual appeal and functionality of the interface.
           </p>
-
+          <div className="mb-4">
+        <Image src="/images/intercshaders.gif" alt="intercshaders" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2">Swirl and Sine shaders</p>
+        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/intercsketch1.PNG" alt="intercsketch1" width={350} height={450} />
+            <Image src="/images/intercsketch2.PNG" alt="intercsketch2" width={350} height={450} />
+        </div>
+        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/intercsketch3.jpg" alt="intercsketch3" width={350} height={450} />
+            <Image src="/images/intercsketch4.jpg" alt="intercsketch4" width={350} height={450} />
+        </div>
+        <p className="text-md text-gray-500 mt-2">Concept sketches</p>
           <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This project was created for Round 4 of the Building Virtual Worlds class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in two weeks by a team of five.
