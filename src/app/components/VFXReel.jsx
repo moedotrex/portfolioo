@@ -11,6 +11,7 @@ const VFXReel = () => {
           <h1 className="text-white mb-6 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
             Technical Art (VFX) Reel
           </h1>
+        </div>
       </div>
       <div className="mb-4">
         <video width="70%" height="auto" controls>
