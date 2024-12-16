@@ -27,15 +27,15 @@ const Project23 = () => {
           <div className="mb-4">
         <Image src="/images/wotbsketches.PNG" alt="wotbsketches" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2">Early concept sketches</p>
+        <p className="text-md text-gray-500 mt-2 mb-3">Early concept sketches</p>
+        <p className="text-xl text-gray-400 font-bold mb-2">Contributions</p>
+          <p className="text-lg text-gray-400 mb-4">
+          I was responsible for crafting the story, which draws inspiration from a short story I wrote a few years ago about flowers having feelings. In addition to the narrative, I created props for the physical tea party table setting and contributed to the art for the game&apos;s virtual elements. I also made a rig for the main flower, added animations to express its emotions and some FVX for better visual feedback.
+          </p>
         <div className="mb-4">
         <Image src="/images/wotbrig.png" alt="wotbrig" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2">Flower rig made in Blender</p>
-          <p className="text-xl text-gray-400 font-bold mb-2">Contributions</p>
-          <p className="text-lg text-gray-400 mb-4">
-          I was responsible for crafting the story, which draws inspiration from a short story I wrote a few years ago about flowers having feelings. In addition to the narrative, I created props for the physical tea party table setting and contributed to the art for the game&apos;s virtual elements. I also made a rig for the main flower, added animations to express its emotions and some FVX for better visual feedback.
-          </p>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
@@ -50,7 +50,7 @@ const Project23 = () => {
             <Image src="/images/wotbno.gif" alt="wotbno" width={350} height={450} />
             <Image src="/images/wotbsadno.gif" alt="wotbsadno" width={350} height={450} />
         </div>
-        <p className="text-md text-gray-500 mt-2">Flower Animations</p>
+        <p className="text-md text-gray-500 mt-2 mb-3">Flower Animations</p>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/wotbsparkles.gif" alt="wotbsparkles" width={350} height={450} />
             <Image src="/images/wotbquestion.gif" alt="wotbquestion" width={350} height={450} />

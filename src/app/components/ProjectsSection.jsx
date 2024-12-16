@@ -33,6 +33,14 @@ const Project23 = dynamic(() => import('./Projects/Project23'), { ssr: false });
 
 const projectsData = [
   {
+    id: 23,
+    title: "Whispers of the Bloom",
+    description: "Tea Party with sentient flowers experience.",
+    image: "/images/projects/23.gif",
+    tag: ["All", "Games"],
+    previewUrl: "/Project23",
+  },
+  {
     id: 22,
     title: "Interstellar Countdown",
     description: "Cooperative game where players work together to control an alien device, using a physical box with Phidgets that represents an alien energy core.",
@@ -207,14 +215,6 @@ const projectsData = [
       image: "/images/projects/18.PNG",
       tag: ["All", "Art"],
       previewUrl: "/Project18",
-    },
-    {
-      id: 23,
-      title: "Whispers of the Bloom",
-      description: "Tea Party with sentient flowers.",
-      image: "/images/projects/23.gif",
-      tag: ["All", "Games"],
-      previewUrl: "/Project23",
     },
   ];
 
