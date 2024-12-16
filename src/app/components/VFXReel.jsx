@@ -12,12 +12,6 @@ const VFXReel = () => {
             Technical Art (VFX) Reel
           </h1>
         </div>
-        <div className="mb-4">
-        <video width="100%" height="auto" controls>
-              <source src="/images/moevfxreel.mp4" type="video/mp4" />
-              Your browser does not support the video tag.
-        </video>
-        </div>
       </div>
     </section>
   );
