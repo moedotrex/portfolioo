@@ -59,12 +59,12 @@ const Project22 = () => {
         </div>
         <p className="text-md text-gray-500 mt-2 mb-5">Swirl and sine wave shaders</p>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/intercsketch3.jpg" alt="intercsketch3" width={350} height={450} />
-            <Image src="/images/intercsketch4.jpg" alt="intercsketch4" width={350} height={450} />
+            <Image src="/images/intercsketch3.jpg" alt="intercsketch3" width={330} height={450} />
+            <Image src="/images/intercsketch4.jpg" alt="intercsketch4" width={330} height={450} />
         </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/intercsketch1.PNG" alt="intercsketch1" width={350} height={450} />
-            <Image src="/images/intercsketch2.PNG" alt="intercsketch2" width={350} height={450} />
+            <Image src="/images/intercsketch1.PNG" alt="intercsketch1" width={330} height={450} />
+            <Image src="/images/intercsketch2.PNG" alt="intercsketch2" width={330} height={450} />
         </div>
         <p className="text-md text-gray-500 mt-2">Concept sketches</p>
           <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
