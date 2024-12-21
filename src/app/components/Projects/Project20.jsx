@@ -40,7 +40,7 @@ const Project20 = () => {
         <div className="mb-2 mt-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/maa2.png" alt="maa2" width={700} height={500} />
           </div>
-        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
+        <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
             <Image src="/images/maa1.png" alt="maa1" width={300} height={450} />
             <Image src="/images/maa3.png" alt="maa3" width={300} height={450} />
         </div>
@@ -68,13 +68,13 @@ const Project20 = () => {
             <Image src="/images/mass2.png" alt="mass2" width={700} height={500} />
           </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mass4.png" alt="mass4" width={310} height={450} />
-            <Image src="/images/mass5.png" alt="mass5" width={310} height={450} />
+            <Image src="/images/mass4.png" alt="mass4" width={300} height={450} />
+            <Image src="/images/mass5.png" alt="mass5" width={300} height={450} />
         </div>
         <p className="text-md text-gray-500 mb-5">Scene screenshots inside Unity</p>
         <div className="mb-4"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/mamonkeyturnaround.gif" alt="mamonkeyta" width={310} height={450} />
-            <Image src="/images/mamouseturnaround.gif" alt="mamouseta" width={310} height={450} />
+            <Image src="/images/mamonkeyturnaround.gif" alt="mamonkeyta" width={300} height={450} />
+            <Image src="/images/mamouseturnaround.gif" alt="mamouseta" width={300} height={450} />
         </div>
         <p className="text-md text-gray-500 mt-2">3D models with painterly textures</p>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
@@ -89,9 +89,9 @@ const Project20 = () => {
           After modeling in Blender, I generated the object&apos;s normal map and used Procreate to manually color match and paint textures directly onto it. This texture was then imported back into Blender to create a tangent normal map for integration into Unity.
         </p>
         <div className="mb-4"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/manormal1.png" alt="manormal1" width={210} height={450} />
-            <Image src="/images/manormal2.PNG" alt="manormal2" width={210} height={450} />
-            <Image src="/images/manormal3.PNG" alt="manormal3" width={210} height={450} />
+            <Image src="/images/manormal1.png" alt="manormal1" width={200} height={450} />
+            <Image src="/images/manormal2.PNG" alt="manormal2" width={200} height={450} />
+            <Image src="/images/manormal3.PNG" alt="manormal3" width={200} height={450} />
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
