@@ -43,17 +43,17 @@ const Project23 = () => {
           The user is invited to a whimsical tea party where the other guests are charming talking flowers. As the guest of honor, they engage in delightful conversations, asking questions and interacting with each flower to uncover the mystery behind their invitation and the purpose of the gathering. In this enchanting world, they navigate through delightful dialogues, unraveling the hidden secrets that lie beneath the surface of this unique celebration.
           </p>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" width={330} height={450} />
-            <Image src="/images/wotbsadyes.gif" alt="wotbsadyes" width={330} height={450} />
+            <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" width={330} height="auto" />
+            <Image src="/images/wotbsadyes.gif" alt="wotbsadyes" width={330} height="auto" />
         </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbno.gif" alt="wotbno" width={330} height={450} />
-            <Image src="/images/wotbsadno.gif" alt="wotbsadno" width={330} height={450} />
+            <Image src="/images/wotbno.gif" alt="wotbno" width={330} height="auto" />
+            <Image src="/images/wotbsadno.gif" alt="wotbsadno" width={330} height="auto" />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Flower Animations</p>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbsparkles.gif" alt="wotbsparkles" width={330} height={450} />
-            <Image src="/images/wotbquestion.gif" alt="wotbquestion" width={330} height={450} />
+            <Image src="/images/wotbsparkles.gif" alt="wotbsparkles" width={330} height="auto" />
+            <Image src="/images/wotbquestion.gif" alt="wotbquestion" width={330} height="auto" />
         </div>
         <p className="text-md text-gray-500 mt-2">Flower VFX</p>
 
