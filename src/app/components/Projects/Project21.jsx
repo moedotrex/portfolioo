@@ -52,8 +52,8 @@ const Project21 = () => {
             <Image src="/images/fishsplash.gif" alt="fishsplash" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/fishcloud.gif" alt="fishcloud" width={330} height="auto" />
-            <Image src="/images/fishsakura.gif" alt="fishsakura" width={330} height="auto" />
+            <Image src="/images/fishcloud.gif" alt="fishcloud" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/fishsakura.gif" alt="fishsakura" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">VFX</p>
           <p className="text-lg text-gray-400 mb-4">
