@@ -86,12 +86,12 @@ const Project19 = () => {
             </div>
             <p className="text-md text-gray-500 mt-2 mb-4">Glass Shader Graph</p>
             <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/icecreamchar1.PNG" alt="icchar1" width={300} height="auto" />
-            <Image src="/images/icecreamchar2.PNG" alt="icchar2" width={300} height="auto" />
+            <Image src="/images/icecreamchar1.PNG" alt="icchar1" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
+            <Image src="/images/icecreamchar2.PNG" alt="icchar2" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
           </div>
           <div className="mb-4"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/icecreamchar3.PNG" alt="icchar3" width={300} height="auto" />
-            <Image src="/images/icecreamchar4.PNG" alt="icchar4" width={300} height="auto" />
+            <Image src="/images/icecreamchar3.PNG" alt="icchar3" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
+            <Image src="/images/icecreamchar4.PNG" alt="icchar4" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
           </div>
           <p className="text-md text-gray-500 mt-2 mb-4">Character Designs</p>
           <video width="100%" height="auto" controls>
