@@ -41,8 +41,8 @@ const Project20 = () => {
             <Image src="/images/maa2.png" alt="maa2" width={700} height={500} />
           </div>
         <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/maa1.png" alt="maa1" width={300} height="auto" />
-            <Image src="/images/maa3.png" alt="maa3" width={300} height="auto" />
+            <Image src="/images/maa1.png" alt="maa1" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
+            <Image src="/images/maa3.png" alt="maa3" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mb-4">3D models I made</p>
         <div className="mb-4">
@@ -62,19 +62,19 @@ const Project20 = () => {
           Monkeying Around is a VR game that puts players in the shoes of a monkey toy, separated from its mother in the basement of a toy store. Players must navigate their way back to her by climbing between shelf levels, utilizing vertical movement to overcome various obstacles. The primary mechanic revolves around the rhythmic movement of the player&apos;s hands, which guides them through the environment. An emotional narrative unfolds through an animated cutscene, allowing players to develop a deeper emotional connection with the character.
           </p>
           <div className="mb-2 mt-5"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mass1.png" alt="mass1" width={700} height={500} />
+            <Image src="/images/mass1.png" alt="mass1" className="w-full mb-2 h-auto" style={{ maxWidth: 700, height: 'auto' }} />
           </div>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mass2.png" alt="mass2" width={700} height={500} />
+            <Image src="/images/mass2.png" alt="mass2" className="w-full mb-2 h-auto" style={{ maxWidth: 700, height: 'auto' }} />
           </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/mass4.png" alt="mass4" width={300} height="auto" />
-            <Image src="/images/mass5.png" alt="mass5" width={300} height="auto" />
+            <Image src="/images/mass4.png" alt="mass4" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
+            <Image src="/images/mass5.png" alt="mass5" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mb-5">Scene screenshots inside Unity</p>
         <div className="mb-4"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/mamonkeyturnaround.gif" alt="mamonkeyta" width={300} height="auto" />
-            <Image src="/images/mamouseturnaround.gif" alt="mamouseta" width={300} height="auto" />
+            <Image src="/images/mamonkeyturnaround.gif" alt="mamonkeyta" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
+            <Image src="/images/mamouseturnaround.gif" alt="mamouseta" className="w-full mb-2 h-auto" style={{ maxWidth: 300, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2">3D models with painterly textures</p>
           <div className="mb-4 mt-5"style={{ display: 'flex', gap: '10px' }}>
@@ -89,9 +89,9 @@ const Project20 = () => {
           After modeling in Blender, I generated the object&apos;s normal map and used Procreate to manually color match and paint textures directly onto it. This texture was then imported back into Blender to create a tangent normal map for integration into Unity.
         </p>
         <div className="mb-4"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/manormal1.png" alt="manormal1" width={200} height="auto" />
-            <Image src="/images/manormal2.PNG" alt="manormal2" width={200} height="auto" />
-            <Image src="/images/manormal3.PNG" alt="manormal3" width={200} height="auto" />
+            <Image src="/images/manormal1.png" alt="manormal1" className="w-full mb-2 h-auto" style={{ maxWidth: 200, height: 'auto' }} />
+            <Image src="/images/manormal2.PNG" alt="manormal2" className="w-full mb-2 h-auto" style={{ maxWidth: 200, height: 'auto' }} />
+            <Image src="/images/manormal3.PNG" alt="manormal3" className="w-full mb-2 h-auto" style={{ maxWidth: 200, height: 'auto' }} />
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
