@@ -59,12 +59,12 @@ const Project22 = () => {
         </div>
         <p className="text-md text-gray-500 mt-2 mb-5">Swirl and sine wave shaders</p>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/intercsketch3.jpg" alt="intercsketch3" width={330} height="auto" />
-            <Image src="/images/intercsketch4.jpg" alt="intercsketch4" width={330} height="auto" />
+            <Image src="/images/intercsketch3.jpg" alt="intercsketch3" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/intercsketch4.jpg" alt="intercsketch4" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/intercsketch1.PNG" alt="intercsketch1" width={330} height="auto" />
-            <Image src="/images/intercsketch2.PNG" alt="intercsketch2" width={330} height="auto" />
+            <Image src="/images/intercsketch1.PNG" alt="intercsketch1" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/intercsketch2.PNG" alt="intercsketch2" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2">Concept sketches</p>
           <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
