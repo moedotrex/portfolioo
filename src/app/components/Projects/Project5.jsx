@@ -43,7 +43,7 @@ const Project5 = () => {
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-3">About</p>
           <p className="text-lg text-gray-400 mb-4">
-          This small underwater 2D exploration game made in Unity puts you in the role of a diver cat which helps people who lost their stuff at the beach to recover it. You dive deep into the ocean with a radar looking for whatever people may have lost. The sea is dangerous though, and you’re equipped with a harpoon gun to fend off the threats of the deep unknown.
+          This small underwater 2D exploration game made in Unity puts you in the role of a diver cat which helps people who lost their stuff at the beach to recover it. You dive deep into the ocean with a radar looking for whatever people may have lost. The sea is dangerous though, and you&apos;re equipped with a harpoon gun to fend off the threats of the deep unknown.
           </p>
           <div className="text-lg text-gray-400 mb-6">
             <p className="text-xl font-bold mb-3 mt-5">Gameplay</p>

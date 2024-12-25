@@ -48,8 +48,8 @@ const Project21 = () => {
           Sakana Smash is a vibrant, sushi-themed arena where players take on the roles of quirky, animated fish. Set within a lively sushi restaurant, the experience combines playful art with intense, physics-driven gameplay. As players navigate the conveyor belt and grill hazards, they must push and dodge each other to avoid becoming the next sushi roll! The fast-paced, chaotic environment offers quick rounds filled with humor, strategy, and surprise, creating an unforgettable, “bite-sized” experience for players and viewers alike.
           </p>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/fishpunch.gif" alt="fishpunch" width={330} height="auto" />
-            <Image src="/images/fishsplash.gif" alt="fishsplash" width={330} height="auto" />
+            <Image src="/images/fishpunch.gif" alt="fishpunch" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/fishsplash.gif" alt="fishsplash" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/fishcloud.gif" alt="fishcloud" width={330} height="auto" />
