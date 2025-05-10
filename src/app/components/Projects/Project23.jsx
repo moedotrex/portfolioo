@@ -30,7 +30,7 @@ const Project23 = () => {
         <p className="text-md text-gray-500 mt-2 mb-3">Early concept sketches</p>
         <p className="text-xl text-gray-400 font-bold mb-2">Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
-          I was responsible for crafting the story, which draws inspiration from a short story I wrote a few years ago about flowers having feelings. In addition to the narrative, I created props for the physical tea party table setting and contributed to the art for the game&apos;s virtual elements. I made a rig for the main flower, added animations to express its emotions and some FVX for better visual feedback.
+          I was responsible for crafting the story, which draws inspiration from a short story I wrote a few years ago about flowers having feelings. In addition to the narrative, I created props for the physical tea party table setting and contributed to the art for the game&apos;s virtual elements. I made a rig for the main flower, added animations to express its emotions and some VFX for better visual feedback.
           </p>
         <div className="mb-4">
         <Image src="/images/wotbrig.png" alt="wotbrig" width={700} height={500} />
