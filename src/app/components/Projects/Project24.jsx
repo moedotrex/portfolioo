@@ -84,4 +84,4 @@ const Project24 = () => {
   );
 };
 
-export default Project23;
+export default Project24;
