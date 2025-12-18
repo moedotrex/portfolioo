@@ -3,10 +3,10 @@ import React from 'react';
 import dynamic from 'next/dynamic';
 const Image = dynamic(() => import('next/image'), { ssr: false });
 
-const Project25 = () => {
+const Project27 = () => {
   return (
     <div className="container mx-auto px-4 py-24">
-      <h1 className="text-4xl font-bold mb-4">Scotty 3D</h1>
+      <h1 className="text-4xl font-bold mb-4">The Billy Joe Jive Experience</h1>
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
           <div className="mb-4">
@@ -84,4 +84,4 @@ const Project25 = () => {
   );
 };
 
-export default Project25;
+export default Project27;
