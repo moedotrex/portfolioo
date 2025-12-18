@@ -3,7 +3,7 @@ import React from 'react';
 import dynamic from 'next/dynamic';
 const Image = dynamic(() => import('next/image'), { ssr: false });
 
-const Project24 = () => {
+const Project25 = () => {
   return (
     <div className="container mx-auto px-4 py-24">
       <h1 className="text-4xl font-bold mb-4">Speak Your Heart</h1>
