@@ -30,13 +30,13 @@ const Project25 = () => {
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">Features Implemented</p>
           <p className="text-lg text-gray-400 mb-4">
-              <li>Interactive Mesh Processing</li>
+              <li><strong>Interactive Mesh Processing</strong></li>
               Implemented mesh editing tools including triangulation, Loop subdivision, and isotropic remeshing, enabling real-time geometric modeling and smoothing.
-              <li>Dynamic Animation System</li>
+              <li><strong>Dynamic Animation System</strong></li>
               Built forward and inverse kinematics, FK/IK, solvers with linear blend skinning for character animation. Integrated spline-based interpolation for smooth motion curves.
-              <li>Path Tracing Renderer</li>
+              <li><strong>Path Tracing Renderer</strong></li>
               Developed a physically-based path tracer with support for global illumination, realistic materials, and depth-of-field effects.
-              <li>Physics-Based Simulation</li>
+              <li><strong>Physics-Based Simulation</strong></li>
               Added simulation of dynamic systems to support physically plausible motion and deformation.
           </p>
           <div className="mb-4">
