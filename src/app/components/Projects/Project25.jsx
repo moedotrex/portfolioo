@@ -10,18 +10,22 @@ const Project25 = () => {
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/render-image.png" alt="finalrender" className="w-full mb-2 h-auto" style={{ maxWidth: 360, height: 'auto' }} />
-            <Image src="/images/render.png" alt="render2" className="w-full mb-2 h-auto" style={{ maxWidth: 360, height: 'auto' }} />
+            <Image src="/images/render-image.png" alt="finalrender" className="w-full mb-2 h-auto" style={{ maxWidth: 365, height: 'auto' }} />
+            <Image src="/images/render.png" alt="render2" className="w-full mb-2 h-auto" style={{ maxWidth: 365, height: 'auto' }} />
         </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/model-image.png" alt="modelscotty" className="w-full mb-2 h-auto" style={{ maxWidth: 360, height: 'auto' }} />
-            <Image src="/images/rasterize_image.png" alt="rasterizescotty" className="w-full mb-2 h-auto" style={{ maxWidth: 360, height: 'auto' }} />
+            <Image src="/images/model-image.png" alt="modelscotty" className="w-full mb-2 h-auto" style={{ maxWidth: 365, height: 'auto' }} />
+            <Image src="/images/rasterize_image.png" alt="rasterizescotty" className="w-full mb-2 h-auto" style={{ maxWidth: 365, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">The images above were created using my implementation of Scotty3D, showcasing its rendering and modeling capabilities.</p>
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
           Scotty3D is a 3D graphics software package built during Carnegie Mellon's 15-462 Computer Graphics course. It includes components for software rastization, interactive mesh editing, realistic path tracing, and dynamic animation. Implementing functionality in each of these areas constitutes the majority of the coursework for the class.
           </p>
+          <div className="mb-4">
+        <Image src="/images/particles.gif" alt="particles" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2">Particle Simulation</p>
         <p className="text-xl text-gray-400 font-bold mb-2">Reference</p>
           <p className="text-lg text-gray-400 mb-4">
           For reference: <a href="https://cmu-graphics.github.io/Scotty3D-docs/" target="_blank" rel="noopener noreferrer"><strong>CMU Scotty3D Documentation</strong></a>
