@@ -14,7 +14,7 @@ const Project25 = () => {
             <Image src="/images/render.png" alt="render2" className="w-full mb-2 h-auto" style={{ maxWidth: 350, height: 'auto' }} />
         </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/modelimage.png" alt="modelscotty" className="w-full mb-2 h-auto" style={{ maxWidth: 350, height: 'auto' }} />
+            <Image src="/images/model-image.png" alt="modelscotty" className="w-full mb-2 h-auto" style={{ maxWidth: 350, height: 'auto' }} />
             <Image src="/images/rasterize_image.png" alt="rasterizescotty" className="w-full mb-2 h-auto" style={{ maxWidth: 350, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">The images above were created using my implementation of Scotty3D, showcasing its rendering and modeling capabilities.</p>
@@ -47,12 +47,15 @@ const Project25 = () => {
               <li>Physics-Based Simulation</li>
               Added simulation of dynamic systems to support physically plausible motion and deformation.
           </p>
-        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbsparkles.gif" alt="wotbsparkles" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbquestion.gif" alt="wotbquestion" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-        </div>
-        <p className="text-md text-gray-500 mt-2">Flower VFX</p>
-
+          <div className="mb-4">
+          <video width="100%" height="auto" controls>
+              <source src="/images/animation.mp4" type="video/mp4" /> 
+              Your browser does not support the video tag.
+            </video>
+          </div>
+          <p className="text-md text-gray-500 mb-4">
+          Animation made with Scotty3D
+          </p>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">Physical Setting</p>
           <p className="text-lg text-gray-400 mb-4">
           To fully engage the guest&apos;s senses, we provided tea and snacks, corresponding to each flower&apos;s story. The table for the tea party was decorated to feel magical and floral.
