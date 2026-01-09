@@ -37,6 +37,14 @@ const Project27 = dynamic(() => import('./Projects/Project27'), { ssr: false });
 
 const projectsData = [
   {
+    id: 25,
+    title: "Scotty3D",
+    description: "Built every layer of a 3D graphics system, from polygon manipulation to path-traced renders.",
+    image: "/images/projects/25.gif",
+    tag: ["All", "Art"],
+    previewUrl: "/Project25",
+  },
+  {
     id: 20,
     title: "Monkeying Around",
     description: "A VR adventure game where players embody a monkey toy navigating a toy store's basement, using intuitive climbing mechanics.",
