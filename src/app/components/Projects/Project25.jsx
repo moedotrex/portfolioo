@@ -33,7 +33,7 @@ const Project25 = () => {
               <li><strong>Interactive Mesh Processing</strong></li>
               Implemented mesh editing tools including triangulation, Loop subdivision, and isotropic remeshing, enabling real-time geometric modeling and smoothing.
               <li><strong>Dynamic Animation System</strong></li>
-              Built forward and inverse kinematics, FK/IK, solvers with linear blend skinning for character animation. Integrated spline-based interpolation for smooth motion curves.
+              Built forward and inverse kinematics (FK/IK) solvers with linear blend skinning for character animation. Integrated spline-based interpolation for smooth motion curves.
               <li><strong>Path Tracing Renderer</strong></li>
               Developed a physically-based path tracer with support for global illumination, realistic materials, and depth-of-field effects.
               <li><strong>Physics-Based Simulation</strong></li>
