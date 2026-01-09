@@ -18,10 +18,16 @@ const Project25 = () => {
           <p className="text-md text-gray-500 mb-4">
           Promotional video
           </p>
-          <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
+          <p className="text-xl text-gray-400 font-bold mb-2">Features Implemented</p>
           <p className="text-lg text-gray-400 mb-4">
-          My main contribution for the project was as the Narrative Designer. I was in charge of creating a compelling story that would help teach about Freedom of Speech to University students.
-
+              <li>Interactive Mesh Processing</li>
+              Implemented mesh editing tools including triangulation, Loop subdivision, and isotropic remeshing, enabling real-time geometric modeling and smoothing.
+              <li>Dynamic Animation System</li>
+              Built forward and inverse kinematics, FK/IK, solvers with linear blend skinning for character animation. Integrated spline-based interpolation for smooth motion curves.
+              <li>Path Tracing Renderer</li>
+              Developed a physically-based path tracer with support for global illumination, realistic materials, and depth-of-field effects.
+              <li>Physics-Based Simulation</li>
+              Added simulation of dynamic systems to support physically plausible motion and deformation.
           </p>
           <div className="mb-4">
         <Image src="/images/wotbsketches.PNG" alt="wotbsketches" width={700} height={500} />
@@ -39,8 +45,7 @@ const Project25 = () => {
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
-          Speak You Heart is a transformational game that explores freedom of speech and academic freedom within a campus environment. Topics such as the definition of hate speech, the importance of context in expression, the influence of social norms on speech, and the necessity of controversial discussions for academic growth will be introduced and examined. 
-          Through interactive storytelling and choice-driven gameplay, players navigate conflicts between student groups engaging in conversations with representations of “law”, “school policy”, and “social norms”, each offering different perspectives and solutions. By blending a transformational framework with engaging gameplay, the experience raises awareness of how words have consequences in academic and societal settings. 
+          Scotty3D is a 3D graphics software package built during Carnegie Mellon's 15-462 Computer Graphics course. It includes components for software rastization, interactive mesh editing, realistic path tracing, and dynamic animation. Implementing functionality in each of these areas constitutes the majority of the coursework for the class.
           </p>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
