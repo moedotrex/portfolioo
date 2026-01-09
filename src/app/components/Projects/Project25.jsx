@@ -23,7 +23,7 @@ const Project25 = () => {
           Scotty3D is a 3D graphics software package built during Carnegie Mellon's 15-462 Computer Graphics course. It includes components for software rastization, interactive mesh editing, realistic path tracing, and dynamic animation. Implementing functionality in each of these areas constitutes the majority of the coursework for the class.
           </p>
           <div className="mb-4">
-        <Image src="/images/particles.gif" alt="particles" width={700} height={500} />
+        <Image src="/images/particlesgif.gif" alt="particles" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2">Particle Simulation</p>
         <p className="text-xl text-gray-400 font-bold mb-2">Reference</p>
