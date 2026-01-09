@@ -26,8 +26,8 @@ const Project25 = () => {
         <Image src="/images/particlesgif.gif" alt="particles" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2">Particle Simulation</p>
-        <p className="text-xl text-gray-400 font-bold mb-2">Reference</p>
-          <p className="text-lg text-gray-400 mt-4 mb-4">
+        <p className="text-xl text-gray-400 font-bold mt-4 mb-2">Reference</p>
+          <p className="text-lg text-gray-400 mb-4">
           For reference: <a href="https://cmu-graphics.github.io/Scotty3D-docs/" target="_blank" rel="noopener noreferrer"><strong>CMU Scotty3D Documentation</strong></a>
           </p>
         </div>
