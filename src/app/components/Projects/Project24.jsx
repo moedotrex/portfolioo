@@ -23,10 +23,6 @@ const Project24 = () => {
           My main contribution for the project was as the Narrative Designer. I was in charge of creating a compelling story that would help teach about Freedom of Speech to University students.
 
           </p>
-          <div className="mb-4">
-        <Image src="/images/wotbsketches.PNG" alt="wotbsketches" width={700} height={500} />
-        </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Early concept sketches</p>
         <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
           I also made some of the 2D backgrounds, as well as concept sketches and storyboards for some of the game&apos;s cutscenes.
@@ -42,6 +38,9 @@ const Project24 = () => {
           Speak You Heart is a transformational game that explores freedom of speech and academic freedom within a campus environment. Topics such as the definition of hate speech, the importance of context in expression, the influence of social norms on speech, and the necessity of controversial discussions for academic growth will be introduced and examined. 
           Through interactive storytelling and choice-driven gameplay, players navigate conflicts between student groups engaging in conversations with representations of “law”, “school policy”, and “social norms”, each offering different perspectives and solutions. By blending a transformational framework with engaging gameplay, the experience raises awareness of how words have consequences in academic and societal settings. 
           </p>
+          <div className="mb-4">
+        <Image src="/images/MenuSYH.png" alt="menuSYH" width={700} height={500} />
+        </div>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
             <Image src="/images/wotbsadyes.gif" alt="wotbsadyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
@@ -66,18 +65,15 @@ const Project24 = () => {
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
-          This project was created for the Visual Story class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in approximately two months by a team of six.
+          This was a team project made for Carnegie Mellon University&apos;s Entertainment Technology Center. We were a team of 6 working on this for a semester.
           </p>
           <div className="text-lg text-gray-400 mb-4">
-                <li>Art by Moe Aguilar, Harley Xu and Eunyoung Park</li>
-                <li>Programming by Ethan Zhu and Vector Liu</li>
-                <li>Story by Moe Aguilar and Joshua Kaplan</li>
-                <li>Props by Moe Aguilar and Joshua Kaplan</li>
+                <li>Narrative by Moe Aguilar and Kailun Deng</li>
+                <li>Art by Moe Aguilar, Enn Ruan and Lutong He</li>
+                <li>UI/UX by Jiwon Park</li>
+                <li>Music by Kailun Deng</li>
+                <li>Programming by Jack Chou</li>
           </div>
-          <div className="mb-4">
-        <Image src="/images/wotb6lives.GIF" alt="wotb6lives" width={700} height={500} />
-        </div>
-        <p className="text-md text-gray-500 mt-2">Animated logo I made for our team</p>
         </div>
       </div>
     </div>
