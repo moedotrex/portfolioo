@@ -57,6 +57,9 @@ const Project24 = () => {
           <p className="text-md text-gray-500 mb-4">
           Promotional video
           </p>
+          <div className="mb-4">
+        <Image src="/images/narrativeoverviewgif.gif" alt="narrativeoverviewgif" width={700} height={500} />
+        </div>
         <div className="mb-4">
         <Image src="/images/cmumenuspgif.gif" alt="menuSYHgif" width={700} height={500} />
         </div>
@@ -77,9 +80,12 @@ const Project24 = () => {
                 <li>Programming by Jack Chou</li>
           </div>
           <div className="mt-6">
-              <p className="text-xl text-gray-400 font-bold">Download</p>
+              <p className="text-xl text-gray-400 font-bold">Download and more</p>
               <p className="text-lg text-gray-400 mt-2">
                 Link to download the game <a href="https://jackzhou-0523.itch.io/speak-your-heart" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
+              </p>
+              <p className="text-lg text-gray-400 mt-2">
+                Official project website plus a devlog can be found <a href="https://projects.etc.cmu.edu/expression/"><strong>here</strong></a>
               </p>
           </div>
         </div>
