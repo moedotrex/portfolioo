@@ -9,15 +9,10 @@ const Project27 = () => {
       <h1 className="text-4xl font-bold mb-4">The Billy Joe Jive Experience</h1>
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
-          <div className="mb-4">
-          <video width="100%" height="auto" controls>
-              <source src="/images/Finalbjjvideo.mp4" type="video/mp4" /> 
-              Your browser does not support the video tag.
-            </video>
-          </div>
-          <p className="text-md text-gray-500 mb-4">
-          Promotional video
-          </p>
+          <div className="mb-2">
+        <Image src="/images/27.gif" alt="bjj" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mb-4">Project Highlights</p>
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
           <p className="text-lg text-gray-400 mb-4">
           I was responsible for the entire story, characters, and dialogue. My goal was to build a "cold case" mystery for kids that used 1980s graffiti culture as a rich, educational backdrop.
@@ -47,6 +42,15 @@ const Project27 = () => {
           The Billy Jo Jive Experience was a semester long project to revive the 1970s Sesame Street characters, Billy Jo Jive and Smart Susie Sunset, for a modern audience. Our challenge was to create an interactive experience that preserved the IP&apos;s core values literacy, positive representation, and community problem solving while engaging today&apos;s 10 to 12 year olds. </p>
           <p className="text-lg text-gray-400 mb-4">
           We designed and built a 30 minute, narrative driven location based mystery (akin to a wholesome escape room). Participants were recruited into Jive and Sunset&apos;s "Crime Lab" to solve a decades old cold case: the theft of legendary graffiti artist Queen G&apos;s iconic spray cans. The experience uniquely blended physical props (a rotary phone, UV flashlight, case files) with digital tools (a Tilt5 AR viewer for virtual location scouting) to create a fun, investigative adventure.</p>
+          <div className="mb-4">
+          <video width="100%" height="auto" controls>
+              <source src="/images/Finalbjjvideo.mp4" type="video/mp4" /> 
+              Your browser does not support the video tag.
+            </video>
+          </div>
+          <p className="text-md text-gray-500 mb-4">
+          Promotional video
+          </p>
         <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
             <Image src="/images/halfsheetfront.png" alt="halfsheetfront" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/halfsheetbck.png" alt="halfsheetback" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
