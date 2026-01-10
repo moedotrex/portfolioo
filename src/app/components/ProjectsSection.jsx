@@ -76,16 +76,14 @@ const projectsData = [
     tag: ["All", "Games"],
     previewUrl: "/Project23",
   },
-  /*
   {
     id: 27,
     title: "The Billy Joe Jive Experience",
-    description: "Tea Party with sentient flowers experience.",
+    description: "A mixed-reality escape room that brings a classic Sesame Street detective duo into the present.",
     image: "/images/projects/27.gif",
-    tag: ["All", "Games"],
+    tag: ["All", "Games", "AR/VR"],
     previewUrl: "/Project27",
   },
-  */
   {
     id: 22,
     title: "Interstellar Countdown",
