@@ -10,14 +10,8 @@ const Project24 = () => {
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
           <div className="mb-4">
-          <video width="100%" height="auto" controls>
-              <source src="/images/Expressionfinalvideo.mp4" type="video/mp4" /> 
-              Your browser does not support the video tag.
-            </video>
-          </div>
-          <p className="text-md text-gray-500 mb-4">
-          Promotional video
-          </p>
+        <Image src="/images/MenuSYH.png" alt="menuSYH" width={700} height={500} />
+        </div>
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
           <p className="text-lg text-gray-400 mb-4">
           My main contribution for the project was as the Narrative Designer. I was in charge of creating a compelling story that would help teach about Freedom of Speech to University students.
@@ -39,8 +33,14 @@ const Project24 = () => {
           Through interactive storytelling and choice-driven gameplay, players navigate conflicts between student groups engaging in conversations with representations of “law”, “school policy”, and “social norms”, each offering different perspectives and solutions. By blending a transformational framework with engaging gameplay, the experience raises awareness of how words have consequences in academic and societal settings. 
           </p>
           <div className="mb-4">
-        <Image src="/images/MenuSYH.png" alt="menuSYH" width={700} height={500} />
-        </div>
+          <video width="100%" height="auto" controls>
+              <source src="/images/Expressionfinalvideo.mp4" type="video/mp4" /> 
+              Your browser does not support the video tag.
+            </video>
+          </div>
+          <p className="text-md text-gray-500 mb-4">
+          Promotional video
+          </p>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
             <Image src="/images/wotbsadyes.gif" alt="wotbsadyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
@@ -55,14 +55,6 @@ const Project24 = () => {
             <Image src="/images/wotbquestion.gif" alt="wotbquestion" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2">Flower VFX</p>
-
-        <p className="text-xl text-gray-400 font-bold mb-2 mt-2">Physical Setting</p>
-          <p className="text-lg text-gray-400 mb-4">
-          To fully engage the guest&apos;s senses, we provided tea and snacks, corresponding to each flower&apos;s story. The table for the tea party was decorated to feel magical and floral.
-          </p>
-          <div className="mb-4">
-        <Image src="/images/wotbtable.jpg" alt="wotbtable" width={700} height={500} />
-        </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This was a team project made for Carnegie Mellon University&apos;s Entertainment Technology Center. We were a team of 6 working on this for a semester.
