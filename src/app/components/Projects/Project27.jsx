@@ -21,10 +21,10 @@ const Project27 = () => {
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
           <p className="text-lg text-gray-400 mb-4">
           I was responsible for the entire story, characters, and dialogue. My goal was to build a "cold case" mystery for kids that used 1980s graffiti culture as a rich, educational backdrop.
-          <li>Story & Worldbuilding: Created the central premise where modern-day kid detectives Billy Jo Jive and Smart Susie Sunset investigate the decades-old disappearance of a graffiti artist's spray cans. This structure let us explore history while keeping the story active and relatable.</li>
-          <li>Character Creation: Designed the full cast of original characters, including the legendary artist Queen G and the members of two rival graffiti crews. Each character had a distinct personality, artistic style, and potential motive for players to investigate.</li>
-          <li>Dialogue Script: Wrote all in-game audio (approx. 70 clips), giving each character a unique voice with period-appropriate slang. I also crafted all the supportive guidance from Billy and Susie to mentor players without giving away solutions.</li>
-          <li>Narrative-Driven Design: Made sure every puzzle served the story. For example, I designed the key "Graffiti Code" puzzle where solving a scattered mural reveals a hidden character message, teaching visual literacy and art history as detective skills.</li>
+          <li><strong>Story & Worldbuilding:</strong> Created the central premise where modern-day kid detectives Billy Jo Jive and Smart Susie Sunset investigate the decades-old disappearance of a graffiti artist's spray cans. This structure let us explore history while keeping the story active and relatable.</li>
+          <li><strong>Character Creation:</strong> Designed the full cast of original characters, including the legendary artist Queen G and the members of two rival graffiti crews. Each character had a distinct personality, artistic style, and potential motive for players to investigate.</li>
+          <li><strong>Dialogue Script:</strong> Wrote all in-game audio (approx. 70 clips), giving each character a unique voice with period-appropriate slang. I also crafted all the supportive guidance from Billy and Susie to mentor players without giving away solutions.</li>
+          <li><strong>Narrative-Driven Design:</strong> Made sure every puzzle served the story. For example, I designed the key "Graffiti Code" puzzle where solving a scattered mural reveals a hidden character message, teaching visual literacy and art history as detective skills.</li>
           </p>
           <p className="text-lg text-gray-400 mb-4">
           Link to read some of the narrative I wrote <a href="https://docs.google.com/document/d/1LSOkdZ3wWPEHJaE4JHX1BXUZHVPuMtrSNQlur2qLU20/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
@@ -35,7 +35,11 @@ const Project27 = () => {
         <p className="text-md text-gray-500 mt-2 mb-3">Early concept sketches</p>
         <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
-          I also made some of the 2D backgrounds, as well as concept sketches and storyboards for some of the game&apos;s cutscenes.
+            Besides Narrative, I also helped with some Art tasks.
+                <li><strong>Animatics:</strong> Created the 2D animated videos that introduced the story and concluded the experience.</li>
+                <li><strong>Game Design:</strong> Helped structure the three-phase investigation flow and clue distribution system.</li>
+                <li><strong>2D Art:</strong> Produced several of the graffiti art pieces used as physical clues, each styled for a specific character.</li>
+                <li><strong>VFX/Shaders:</strong> Developed glow/highlight effects in Unity for the AR viewer to guide player attention to clues.</li>
           </p>
         <div className="mb-4">
         <Image src="/images/wotbrig.png" alt="wotbrig" width={700} height={500} />
