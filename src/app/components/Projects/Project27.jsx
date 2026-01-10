@@ -33,14 +33,6 @@ const Project27 = () => {
         <Image src="/images/wotbsketches.PNG" alt="wotbsketches" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Early concept sketches</p>
-        <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
-          <p className="text-lg text-gray-400 mb-4">
-            Besides Narrative, I also helped with some Art tasks.
-                <li><strong>Animatics:</strong> Created the 2D animated videos that introduced the story and concluded the experience.</li>
-                <li><strong>Game Design:</strong> Helped structure the three-phase investigation flow and clue distribution system.</li>
-                <li><strong>2D Art:</strong> Produced several of the graffiti art pieces used as physical clues, each styled for a specific character.</li>
-                <li><strong>VFX/Shaders:</strong> Developed glow/highlight effects in Unity for the AR viewer to guide player attention to clues.</li>
-          </p>
         <div className="mb-4">
         <Image src="/images/wotbrig.png" alt="wotbrig" width={700} height={500} />
         </div>
@@ -66,10 +58,13 @@ const Project27 = () => {
             <Image src="/images/wotbquestion.gif" alt="wotbquestion" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2">Flower VFX</p>
-
-        <p className="text-xl text-gray-400 font-bold mb-2 mt-2">Physical Setting</p>
+        <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
-          To fully engage the guest&apos;s senses, we provided tea and snacks, corresponding to each flower&apos;s story. The table for the tea party was decorated to feel magical and floral.
+            Besides Narrative, I also helped with some Art tasks.
+                <li><strong>Animatics:</strong> Created the 2D animated videos that introduced the story and concluded the experience.</li>
+                <li><strong>Game Design:</strong> Helped structure the three-phase investigation flow and clue distribution system.</li>
+                <li><strong>2D Art:</strong> Produced several of the graffiti art pieces used as physical clues, each styled for a specific character.</li>
+                <li><strong>VFX/Shaders:</strong> Developed glow/highlight effects in Unity for the AR viewer to guide player attention to clues.</li>
           </p>
           <div className="mb-4">
         <Image src="/images/wotbtable.jpg" alt="wotbtable" width={700} height={500} />
