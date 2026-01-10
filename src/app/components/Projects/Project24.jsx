@@ -49,14 +49,17 @@ const Project24 = () => {
           Promotional video
           </p>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbsadyes.gif" alt="wotbsadyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/cmubg1.PNG" alt="cmubg1" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/cmubg1spgif.gif" alt="cmubg1spgif" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbno.gif" alt="wotbno" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbsadno.gif" alt="wotbsadno" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/cmubg2.PNG" alt="cmubg2" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/cmubg2spgif.gif" alt="cmubg2gif" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Flower Animations</p>
+        <p className="text-md text-gray-500 mt-2 mb-3">Backgrounds I made</p>
+        <div className="mb-4">
+        <Image src="/images/cmumenuspgif.gif" alt="menuSYHgif" width={700} height={500} />
+        </div>
         <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/wotbsparkles.gif" alt="wotbsparkles" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
             <Image src="/images/wotbquestion.gif" alt="wotbquestion" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
