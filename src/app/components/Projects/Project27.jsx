@@ -82,7 +82,7 @@ const Project27 = () => {
                 <li>Benjamin Walker: Game Design Lead, Scenery, Voice Acting</li>
                 <li>Joshua Kaplan: Programming Lead, Audio Tech, Electronics</li>
                 <li>Azu De: Tech Art Lead, Electronics & Fabrication, 3D Art</li>
-                <li>Eliana Huang: Art Lead, 2D/3D Assets, VFX</li>
+                <li>Eliana Huang: Art Lead, 2D/3D Assets</li>
                 <li>Fay Li: 2D Assets, Scenery Art, Props</li>
           </div>
         </div>
