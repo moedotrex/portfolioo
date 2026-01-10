@@ -10,22 +10,16 @@ const Project26 = () => {
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
           <div className="mb-4">
-          <video width="100%" height="auto" controls>
-              <source src="/images/Expressionfinalvideo.mp4" type="video/mp4" /> 
-              Your browser does not support the video tag.
-            </video>
-          </div>
-          <p className="text-md text-gray-500 mb-4">
-          Promotional video
-          </p>
+        <Image src="/images/landscape_comp.jpeg" alt="prbl" width={700} height={500} />
+        </div>
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
           <p className="text-lg text-gray-400 mb-4">
           As the narrative lead, I worked closely with autism consultants to shape the story, characters, and lore of Purrject Rebuild. I built the core theme that a civilization succeeds when different minds work together and expressed it through three autistic characters: The Architect, who values precision and routine; The Curator, who is a pattern-seeker with sensory sensitivity; and The Explorer, who experiences time-blindness and hyperfocus. I wrote their dialogue, designed their personal journeys to feel authentic and avoid stereotypes, and developed the world's backstory from its creation myths to the reasons for its collapse. All of this was designed to teach empathy naturally through play, not through lectures.
           </p>
           <div className="mb-4">
-        <Image src="/images/wotbsketches.PNG" alt="wotbsketches" width={700} height={500} />
+        <Image src="/images/dialoguesgif.gif" alt="uefndialogue" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Early concept sketches</p>
+        <p className="text-md text-gray-500 mt-2 mb-3">Dialogue System</p>
         <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
           I also made some of the 2D backgrounds, as well as concept sketches and storyboards for some of the game&apos;s cutscenes.
@@ -64,13 +58,19 @@ const Project26 = () => {
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
-          This project was made in collaboration with the ETC Outreach Team in Carnegie Mellon University.
+          This project was made in collaboration with Play Included, AT Autism and the ETC Outreach Team in Carnegie Mellon University.
           </p>
           <div className="text-lg text-gray-400 mb-4">
                 <li>Narrative by Moe Aguilar</li>
                 <li>Programming by Grace Rodriguez and Moe Aguilar</li>
                 <li>Game Design by Jose Francisco Mireles</li>
                 <li>Music by Libby Egan</li>
+          </div>
+          <div className="mt-4">
+              <p className="text-xl text-gray-400 font-bold">Play the game!</p>
+              <p className="text-lg text-gray-400 mt-2">
+                Link to play the game <a href="https://www.fortnite.com/creative/island-codes/6515-6041-6716?lang=en-US " target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
+              </p>
           </div>
         </div>
       </div>
