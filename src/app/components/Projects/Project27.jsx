@@ -11,7 +11,7 @@ const Project27 = () => {
         <div className="md:w-1/2">
           <div className="mb-4">
           <video width="100%" height="auto" controls>
-              <source src="/images/Expressionfinalvideo.mp4" type="video/mp4" /> 
+              <source src="/images/Finalbjjvideo.mp4" type="video/mp4" /> 
               Your browser does not support the video tag.
             </video>
           </div>

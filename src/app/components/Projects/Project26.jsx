@@ -30,10 +30,10 @@ const Project26 = () => {
             <Image src="/images/volcano.png" alt="volcano" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2">VFX made in Niagara and volcano model made with the LEGO Brick Editor</p>
-        <div className="mt-6 mb-4">
+        <div className="mt-2 mb-4">
         <Image src="/images/explosionassets.png" alt="explosionassets" width={700} height={500} />
         </div>
-        <div className="mb-4">
+        <div className="mb-2">
         <Image src="/images/endinggif.gif" alt="ending" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Ending credits cutscene</p>
@@ -57,7 +57,7 @@ const Project26 = () => {
             <Image src="/images/accommodationuefngif.gif" alt="accommodationgif2" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/accommodationassets.png" alt="accommodationassets" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
-        <p className="text-md text-gray-500 mt-2">UI made in UEFN</p>
+        <p className="text-md text-gray-500">UI made in UEFN</p>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This project was made in collaboration with Play Included, AT Autism and the ETC Outreach Team in Carnegie Mellon University.
