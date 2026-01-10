@@ -21,6 +21,13 @@ const Project24 = () => {
           <p className="text-lg text-gray-400 mb-4">
           I also made some of the 2D backgrounds, as well as concept sketches and storyboards for some of the game&apos;s cutscenes.
           </p>
+          <div className="mb-10">
+        <Image src="/images/cmubg1.PNG" alt="cmubg1" width={700} height={500} />
+        </div>
+        <div className="mb-2">
+        <Image src="/images/cmubg2.PNG" alt="cmubg2" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2 mb-3">Backgrounds I made</p>
           <p className="text-xl text-gray-400 font-bold mb-2">Awards and Recognition</p>
           <p className="text-lg text-gray-400 mb-4">
           This project was awarded Best Student-Developed Game in the 2025 Serious Games Showcase & Challenge (SGS&C) at I/ITSEC (Interservice / Industry Training, Simulation, and Education Conference) in Orlando, Florida.
@@ -51,19 +58,12 @@ const Project24 = () => {
           <p className="text-md text-gray-500 mb-4">
           Promotional video
           </p>
-          <div className="mb-2">
-        <Image src="/images/cmubg1.PNG" alt="cmubg1" width={700} height={500} />
-        </div>
-        <div className="mb-2">
-        <Image src="/images/cmubg2.PNG" alt="cmubg2" width={700} height={500} />
-        </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Backgrounds I made</p>
         <div className="mb-4">
         <Image src="/images/cmumenuspgif.gif" alt="menuSYHgif" width={700} height={500} />
         </div>
-        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/cmubg1spgif.gif" alt="cmubg1spgif" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/cmubg2spgif.gif" alt="cmubg2gif" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+        <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
+            <Image src="/images/cmubg1spgif.gif" alt="cmubg1spgif" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
+            <Image src="/images/cmubg2spgif.gif" alt="cmubg2gif" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Speedpaints made in Procreate</p>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
