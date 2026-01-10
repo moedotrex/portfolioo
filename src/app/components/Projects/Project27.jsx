@@ -27,7 +27,7 @@ const Project27 = () => {
           <li><strong>Narrative-Driven Design:</strong> Made sure every puzzle served the story. For example, I designed the key "Graffiti Code" puzzle where solving a scattered mural reveals a hidden character message, teaching visual literacy and art history as detective skills.</li>
           </p>
           <p className="text-lg text-gray-400 mb-4">
-          Link to read some of the narrative I wrote <a href="https://docs.google.com/document/d/1LSOkdZ3wWPEHJaE4JHX1BXUZHVPuMtrSNQlur2qLU20/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
+          Link to read some of the narrative I wrote <a href="https://docs.google.com/document/d/1fQcS1so8ZNSv7D0f80flZXeU3Ojfcc7LKnPVOSdR7DA/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
           </p>
           <div className="mb-4">
         <Image src="/images/wotbsketches.PNG" alt="wotbsketches" width={700} height={500} />
