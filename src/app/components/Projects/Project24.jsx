@@ -26,10 +26,12 @@ const Project24 = () => {
           This project was awarded Best Student-Developed Game in the 2025 Serious Games Showcase & Challenge (SGS&C) at I/ITSEC (Interservice / Industry Training, Simulation, and Education Conference) in Orlando, Florida.
           It was also showcased in the Serious Play Conference 2025 in Rochester, New Yorl.
           </p>
-        <div className="mb-4">
-        <Image src="/images/wotbrig.png" alt="wotbrig" width={700} height={500} />
-        </div>
-        <p className="text-md text-gray-500 mt-2">Flower rig made in Blender</p>
+        <div className="mt-6">
+              <p className="text-xl text-gray-400 font-bold">Download</p>
+              <p className="text-lg text-gray-400 mt-2">
+                Link to download the game <a href="https://jackzhou-0523.itch.io/speak-your-heart" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
+              </p>
+          </div>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
