@@ -34,28 +34,18 @@ const Project26 = () => {
           <p className="text-lg text-gray-400 mb-4">
             Purrject Rebuild is an exploration and building game designed in UEFN for both neurodivergent and neurotypical players. Set in a lost civilization that thrived through collaboration, players help a team of autistic archaeologists rebuild their world by completing sensory-friendly quests, accommodating unique needs, and uncovering a story centered on empathy and acceptance.
             </p>
-          <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbsadyes.gif" alt="wotbsadyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <div className="mb-4">
+        <Image src="/images/purrjectRebuildPoster.png" alt="prbposter" width={700} height={500} />
         </div>
-        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbno.gif" alt="wotbno" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbsadno.gif" alt="wotbsadno" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-        </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Flower Animations</p>
-        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbsparkles.gif" alt="wotbsparkles" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbquestion.gif" alt="wotbquestion" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-        </div>
-        <p className="text-md text-gray-500 mt-2">Flower VFX</p>
-
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">Technical & Development Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
             Using UEFN&apos;s Verse API, I built the main gameplay systems including the quest tracking and management system that guides players through the island&apos;s three biomes. I programmed interactive NPC behaviors, such as the accommodation feature where players can give items like sunglasses to unlock new abilities and hints from characters. I also directed and put together the game&apos;s final cutscene, which features a custom LEGO volcano I built and animated with Niagara VFX for the eruption sequence. Additionally, I helped design the clean, low-stimulation user interface to ensure the game remained comfortable and accessible for all players.
           </p>
-          <div className="mb-4">
-        <Image src="/images/wotbtable.jpg" alt="wotbtable" width={700} height={500} />
+          <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
+            <Image src="/images/wotbsparkles.gif" alt="wotbsparkles" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/wotbquestion.gif" alt="wotbquestion" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
+        <p className="text-md text-gray-500 mt-2">Flower VFX</p>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This project was made in collaboration with Play Included, AT Autism and the ETC Outreach Team in Carnegie Mellon University.
