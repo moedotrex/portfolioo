@@ -5,6 +5,7 @@ import LinkedinIcon from "../../../public/linkedin-icon.svg";
 import InstagramIcon from "../../../public/instagram-icon.svg";
 import TwitchIcon from "../../../public/twitch-icon.svg";
 import TiktokIcon from "../../../public/tiktok-icon.svg";
+import ItchIcon from "../../../public/itch-icon.svg";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -58,6 +59,9 @@ const EmailSection = () => {
           try my best to get back to you!
         </p>
         <div className="socials flex flex-row gap-2">
+          <Link href="https://moerex.itch.io/">
+            <Image src={ItchIcon} alt="Itch Icon" />
+          </Link>
           <Link href="https://github.com/moedotrex">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
