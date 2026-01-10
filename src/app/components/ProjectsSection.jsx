@@ -180,6 +180,7 @@ const projectsData = [
       tag: ["All", "Art"],
       previewUrl: "/Project11",
     },
+    /*
     {
       id: 12,
       title: "AKUYAKU AR Filter",
@@ -188,6 +189,7 @@ const projectsData = [
       tag: ["All", "AR/VR"],
       previewUrl: "/Project12",
     },
+    */
     {
       id: 13,
       title: "Tleli and the Bow",
