@@ -22,20 +22,20 @@ const Project26 = () => {
           <p className="text-lg text-gray-400 mb-4">
           As the narrative lead, I worked closely with autism consultants to shape the story, characters, and lore of Purrject Rebuild. I built the core theme that a civilization succeeds when different minds work together and expressed it through three autistic characters: The Architect, who values precision and routine; The Curator, who is a pattern-seeker with sensory sensitivity; and The Explorer, who experiences time-blindness and hyperfocus. I wrote their dialogue, designed their personal journeys to feel authentic and avoid stereotypes, and developed the world's backstory from its creation myths to the reasons for its collapse. All of this was designed to teach empathy naturally through play, not through lectures.
           </p>
-          <div className="mb-4">
+          <div className="mb-2">
         <Image src="/images/dialoguesgif.gif" alt="uefndialogue" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mb-3">Dialogue System</p>
         <div className="mb-4">
         <Image src="/images/explosion1gif.gif" alt="explosion" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Explosion VFX and cutscene</p>
+        <p className="text-md text-gray-500 mb-3">Explosion VFX and cutscene</p>
 
         <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
             <Image src="/images/explosiongif.gif" alt="explosion2" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/volcano.png" alt="volcano" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
-        <p className="text-md text-gray-500 mt-2">VFX made in Niagara and volcano model made with the LEGO Brick Editor</p>
+        <p className="text-md text-gray-500">VFX made in Niagara and volcano model made with the LEGO Brick Editor</p>
         <div className="mt-2 mb-4">
         <Image src="/images/explosionassets.png" alt="explosionassets" width={700} height={500} />
         </div>
@@ -59,7 +59,7 @@ const Project26 = () => {
           <div className="mb-2">
         <Image src="/images/accommodationfortnitegif.gif" alt="accommodation" width={700} height={500} />
         </div>
-          <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
+          <div className="mb-1"style={{ display: 'flex', gap: '10px' }}>
             <Image src="/images/accommodationuefngif.gif" alt="accommodationgif2" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/accommodationassets.png" alt="accommodationassets" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
