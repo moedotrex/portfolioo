@@ -64,18 +64,14 @@ const Project26 = () => {
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
-          This project was created for the Visual Story class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in approximately two months by a team of six.
+          This project was made in collaboration with the ETC Outreach Team in Carnegie Mellon University.
           </p>
           <div className="text-lg text-gray-400 mb-4">
-                <li>Art by Moe Aguilar, Harley Xu and Eunyoung Park</li>
-                <li>Programming by Ethan Zhu and Vector Liu</li>
-                <li>Story by Moe Aguilar and Joshua Kaplan</li>
-                <li>Props by Moe Aguilar and Joshua Kaplan</li>
+                <li>Narrative by Moe Aguilar</li>
+                <li>Programming by Grace Rodriguez and Moe Aguilar</li>
+                <li>Game Design by Jose Francisco Mireles</li>
+                <li>Music by Libby Egan</li>
           </div>
-          <div className="mb-4">
-        <Image src="/images/wotb6lives.GIF" alt="wotb6lives" width={700} height={500} />
-        </div>
-        <p className="text-md text-gray-500 mt-2">Animated logo I made for our team</p>
         </div>
       </div>
     </div>
