@@ -39,7 +39,7 @@ const projectsData = [
   {
     id: 24,
     title: "Speak Your Heart",
-    description: "A transformational game that explores freedom of speech and academic freedom within a campus environment.",
+    description: "A freedom of speech dating simulator.",
     image: "/images/projects/24.gif",
     tag: ["All", "Games"],
     previewUrl: "/Project24",
