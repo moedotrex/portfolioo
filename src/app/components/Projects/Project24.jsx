@@ -57,7 +57,7 @@ const Project24 = () => {
           <p className="text-md text-gray-500 mb-4">
           Promotional video
           </p>
-          <div className="mb-4">
+          <div className="mb-2">
         <Image src="/images/narrativeoverviewgif.gif" alt="narrativeoverviewgif" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Narrative dialogues in Miro for easier visualization of the narrative branches</p>
@@ -68,7 +68,7 @@ const Project24 = () => {
             <Image src="/images/cmubg1spgif.gif" alt="cmubg1spgif" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/cmubg2spgif.gif" alt="cmubg2gif" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Speedpaints made in Procreate</p>
+        <p className="text-md text-gray-500 mb-3">Speedpaints made in Procreate</p>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This was a team project made for Carnegie Mellon University&apos;s Entertainment Technology Center. We were a team of 6 working on this for a semester.
