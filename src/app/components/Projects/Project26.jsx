@@ -9,9 +9,15 @@ const Project26 = () => {
       <h1 className="text-4xl font-bold mb-4">Purrject Rebuild</h1>
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
-          <div className="mb-4">
-        <Image src="/images/landscape_comp.jpeg" alt="prbl" width={700} height={500} />
-        </div>
+        <div className="mb-4">
+          <video width="100%" height="auto" controls>
+              <source src="/images/purrjectrebuildvideo.mp4" type="video/mp4" /> 
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        <p className="text-md text-gray-500 mb-4">
+          Gameplay Clips
+          </p>
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
           <p className="text-lg text-gray-400 mb-4">
           As the narrative lead, I worked closely with autism consultants to shape the story, characters, and lore of Purrject Rebuild. I built the core theme that a civilization succeeds when different minds work together and expressed it through three autistic characters: The Architect, who values precision and routine; The Curator, who is a pattern-seeker with sensory sensitivity; and The Explorer, who experiences time-blindness and hyperfocus. I wrote their dialogue, designed their personal journeys to feel authentic and avoid stereotypes, and developed the world's backstory from its creation myths to the reasons for its collapse. All of this was designed to teach empathy naturally through play, not through lectures.
@@ -43,8 +49,8 @@ const Project26 = () => {
           <p className="text-lg text-gray-400 mb-4">
             Purrject Rebuild is an exploration and building game designed in UEFN for both neurodivergent and neurotypical players. Set in a lost civilization that thrived through collaboration, players help a team of autistic archaeologists rebuild their world by completing sensory-friendly quests, accommodating unique needs, and uncovering a story centered on empathy and acceptance.
             </p>
-            <div className="mb-4">
-        <Image src="/images/purrjectRebuildPoster.png" alt="prbposter" width={700} height={500} />
+        <div className="mb-4">
+        <Image src="/images/landscape_comp.jpeg" alt="prbl" width={700} height={500} />
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">Technical & Development Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
@@ -74,6 +80,10 @@ const Project26 = () => {
                 Link to play the game <a href="https://www.fortnite.com/creative/island-codes/6515-6041-6716?lang=en-US " target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
               </p>
           </div>
+          <div className="mb-4">
+        <Image src="/images/purrjectRebuildPoster.png" alt="prbposter" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2 mb-3">Project Poster</p>
         </div>
       </div>
     </div>
