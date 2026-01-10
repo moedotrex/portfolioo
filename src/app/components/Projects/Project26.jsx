@@ -29,17 +29,17 @@ const Project26 = () => {
         <Image src="/images/dialoguesgif.gif" alt="uefndialogue" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mb-3">Dialogue System</p>
-        <div className="mb-4">
+        <div className="mb-2">
         <Image src="/images/explosion1gif.gif" alt="explosion" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mb-3">Explosion VFX and cutscene</p>
 
-        <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
+        <div className="mb-1"style={{ display: 'flex', gap: '10px' }}>
             <Image src="/images/explosiongif.gif" alt="explosion2" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/volcano.png" alt="volcano" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
-        <p className="text-md text-gray-500">VFX made in Niagara and volcano model made with the LEGO Brick Editor</p>
-        <div className="mt-2 mb-4">
+        <p className="text-md text-gray-500 mb-2">VFX made in Niagara and volcano model made with the LEGO Brick Editor</p>
+        <div className="mt-1 mb-4">
         <Image src="/images/explosionassets.png" alt="explosionassets" width={700} height={500} />
         </div>
         <div className="mb-2">
