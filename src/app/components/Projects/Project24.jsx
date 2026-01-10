@@ -26,6 +26,9 @@ const Project24 = () => {
           This project was awarded Best Student-Developed Game in the 2025 Serious Games Showcase & Challenge (SGS&C) at I/ITSEC (Interservice / Industry Training, Simulation, and Education Conference) in Orlando, Florida.
           It was also showcased in the Serious Play Conference 2025 in Rochester, New Yorl.
           </p>
+          <div className="mb-4">
+        <Image src="/images/beststudentgame.jpg" alt="beststudentgame" width={700} height={500} />
+        </div>
         <div className="mt-6">
               <p className="text-xl text-gray-400 font-bold">Download</p>
               <p className="text-lg text-gray-400 mt-2">
