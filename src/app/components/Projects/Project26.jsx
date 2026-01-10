@@ -49,7 +49,7 @@ const Project26 = () => {
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">Technical & Development Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
-            Using UEFN&apos;s Verse API, I built the main gameplay systems including the quest tracking and management system that guides players through the island&apos;s three biomes. I programmed interactive NPC behaviors, such as the accommodation feature where players can give items like sunglasses to unlock new abilities and hints from characters. I also directed and put together the game&apos;s final cutscene, which features a custom LEGO volcano I built and animated with Niagara VFX for the eruption sequence. Additionally, I helped design the clean, low-stimulation user interface to ensure the game remained comfortable and accessible for all players.
+            Using UEFN&apos;s Verse API, I built the some gameplay systems including the quest tracking and management system that guides players through the island&apos;s three biomes. I programmed interactive NPC behaviors, such as the accommodation feature where players can give items like sunglasses to unlock new abilities and hints from characters. I also directed and put together the game&apos;s final cutscene, which features a custom LEGO volcano I built and animated with Niagara VFX for the eruption sequence. Additionally, I helped design the clean, low-stimulation user interface to ensure the game remained comfortable and accessible for all players.
           </p>
           <div className="mb-4">
         <Image src="/images/accommodationfortnitegif.gif" alt="accommodation" width={700} height={500} />
