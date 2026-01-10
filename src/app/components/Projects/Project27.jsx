@@ -20,7 +20,11 @@ const Project27 = () => {
           </p>
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
           <p className="text-lg text-gray-400 mb-4">
-          As the narrative lead, I worked closely with autism consultants to shape the story, characters, and lore of Purrject Rebuild. I built the core theme that a civilization succeeds when different minds work together and expressed it through three autistic characters: The Architect, who values precision and routine; The Curator, who is a pattern-seeker with sensory sensitivity; and The Explorer, who experiences time-blindness and hyperfocus. I wrote their dialogue, designed their personal journeys to feel authentic and avoid stereotypes, and developed the world's backstory from its creation myths to the reasons for its collapse. All of this was designed to teach empathy naturally through play, not through lectures.
+          I was responsible for the entire story, characters, and dialogue. My goal was to build a "cold case" mystery for kids that used 1980s graffiti culture as a rich, educational backdrop.
+          <li>Story & Worldbuilding: Created the central premise where modern-day kid detectives Billy Jo Jive and Smart Susie Sunset investigate the decades-old disappearance of a graffiti artist's spray cans. This structure let us explore history while keeping the story active and relatable.</li>
+          <li>Character Creation: Designed the full cast of original characters, including the legendary artist Queen G and the members of two rival graffiti crews. Each character had a distinct personality, artistic style, and potential motive for players to investigate.</li>
+          <li>Dialogue Script: Wrote all in-game audio (approx. 70 clips), giving each character a unique voice with period-appropriate slang. I also crafted all the supportive guidance from Billy and Susie to mentor players without giving away solutions.</li>
+          <li>Narrative-Driven Design: Made sure every puzzle served the story. For example, I designed the key "Graffiti Code" puzzle where solving a scattered mural reveals a hidden character message, teaching visual literacy and art history as detective skills.</li>
           </p>
           <p className="text-lg text-gray-400 mb-4">
           Link to read some of the narrative I wrote <a href="https://docs.google.com/document/d/1LSOkdZ3wWPEHJaE4JHX1BXUZHVPuMtrSNQlur2qLU20/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
@@ -76,10 +80,6 @@ const Project27 = () => {
                 <li>Story by Moe Aguilar and Joshua Kaplan</li>
                 <li>Props by Moe Aguilar and Joshua Kaplan</li>
           </div>
-          <div className="mb-4">
-        <Image src="/images/wotb6lives.GIF" alt="wotb6lives" width={700} height={500} />
-        </div>
-        <p className="text-md text-gray-500 mt-2">Animated logo I made for our team</p>
         </div>
       </div>
     </div>
