@@ -35,6 +35,10 @@ const Project26 = () => {
         <div className="mb-4">
         <Image src="/images/explosionassets.png" alt="explosionassets" width={700} height={500} />
         </div>
+        <div className="mb-4">
+        <Image src="/images/endinggif.gif" alt="ending" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2 mb-3">Ending credits cutscene</p>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
