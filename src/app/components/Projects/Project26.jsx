@@ -9,7 +9,7 @@ const Project26 = () => {
       <h1 className="text-4xl font-bold mb-4">Purrject Rebuild</h1>
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
-        <div className="mb-4">
+        <div className="mb-2">
           <video width="100%" height="auto" controls>
               <source src="/images/purrjectrebuildvideo.mp4" type="video/mp4" /> 
               Your browser does not support the video tag.
@@ -25,7 +25,7 @@ const Project26 = () => {
           <div className="mb-4">
         <Image src="/images/dialoguesgif.gif" alt="uefndialogue" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Dialogue System</p>
+        <p className="text-md text-gray-500 mb-3">Dialogue System</p>
         <div className="mb-4">
         <Image src="/images/explosion1gif.gif" alt="explosion" width={700} height={500} />
         </div>
@@ -56,7 +56,7 @@ const Project26 = () => {
           <p className="text-lg text-gray-400 mb-4">
             Using UEFN&apos;s Verse API and devices, I built the some gameplay systems including the quest tracking and management system that guides players through the island&apos;s three biomes. I programmed interactive NPC behaviors, such as the accommodation feature where players can give items like sunglasses to unlock new abilities and hints from characters. I also directed and put together the game&apos;s final cutscene, which features a custom LEGO volcano I built and animated with Niagara VFX for the eruption sequence. Additionally, I helped design the clean, low-stimulation user interface to ensure the game remained comfortable and accessible for all players.
           </p>
-          <div className="mb-4">
+          <div className="mb-2">
         <Image src="/images/accommodationfortnitegif.gif" alt="accommodation" width={700} height={500} />
         </div>
           <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
@@ -80,7 +80,7 @@ const Project26 = () => {
                 Link to play the game <a href="https://www.fortnite.com/creative/island-codes/6515-6041-6716?lang=en-US " target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
               </p>
           </div>
-          <div className="mb-4">
+          <div className="mt-4 mb-2">
         <Image src="/images/purrjectRebuildPoster.png" alt="prbposter" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Project Poster</p>
