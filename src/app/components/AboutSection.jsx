@@ -11,7 +11,7 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Game Development: Unity, Unreal Engine 5</li>
+        <li>Game Development: Unity, Unreal Engine 5, UEFN</li>
         <li>Programming Languages: C#, C++, Python, Java, JavaScript</li>
         <li>2D Art: Illustration, Storyboarding, Character Design</li>
         <li>Augmented Reality</li>
