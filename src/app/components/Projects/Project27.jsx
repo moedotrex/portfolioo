@@ -44,18 +44,18 @@ const Project27 = () => {
           The Billy Jo Jive Experience was a semester long project to revive the 1970s Sesame Street characters, Billy Jo Jive and Smart Susie Sunset, for a modern audience. Our challenge was to create an interactive experience that preserved the IP&apos;s core values literacy, positive representation, and community problem solving while engaging today&apos;s 10 to 12 year olds. </p>
           <p className="text-lg text-gray-400 mb-4">
           We designed and built a 30 minute, narrative driven location based mystery (akin to a wholesome escape room). Participants were recruited into Jive and Sunset&apos;s "Crime Lab" to solve a decades old cold case: the theft of legendary graffiti artist Queen G&apos;s iconic spray cans. The experience uniquely blended physical props (a rotary phone, UV flashlight, case files) with digital tools (a Tilt5 AR viewer for virtual location scouting) to create a fun, investigative adventure.</p>
-          <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbsadyes.gif" alt="wotbsadyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+          <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
+            <Image src="/images/bjjsb1.PNG" alt="bjjsb1" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
+            <Image src="/images/bjjsb2.PNG" alt="bjjsb2" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
-        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbno.gif" alt="wotbno" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbsadno.gif" alt="wotbsadno" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+        <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
+            <Image src="/images/bjjsb3.PNG" alt="bjjsb3" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
+            <Image src="/images/bjjsb4.PNG" alt="bjjsb4" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Flower Animations</p>
-        <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbsparkles.gif" alt="wotbsparkles" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbquestion.gif" alt="wotbquestion" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+        <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
+            <Image src="/images/halfsheetfront.png" alt="halfsheetfront" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
+            <Image src="/images/halfsheetbck.png" alt="halfsheetback" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2">Flower VFX</p>
         <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
