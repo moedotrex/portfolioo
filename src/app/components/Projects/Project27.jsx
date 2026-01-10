@@ -21,10 +21,10 @@ const Project27 = () => {
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
           <p className="text-lg text-gray-400 mb-4">
           I was responsible for the entire story, characters, and dialogue. My goal was to build a "cold case" mystery for kids that used 1980s graffiti culture as a rich, educational backdrop.
-          <li><strong>Story & Worldbuilding:</strong> Created the central premise where modern-day kid detectives Billy Jo Jive and Smart Susie Sunset investigate the decades-old disappearance of a graffiti artist's spray cans. This structure let us explore history while keeping the story active and relatable.</li>
+          <li><strong>Story & Worldbuilding:</strong> Created the central premise where modern-day kid detectives Billy Jo Jive and Smart Susie Sunset investigate the decades-old disappearance of a graffiti artist&apos;s spray cans. This structure let us explore history while keeping the story active and relatable.</li>
           <li><strong>Character Creation:</strong> Designed the full cast of original characters, including the legendary artist Queen G and the members of two rival graffiti crews. Each character had a distinct personality, artistic style, and potential motive for players to investigate.</li>
           <li><strong>Dialogue Script:</strong> Wrote all in-game audio (approx. 70 clips), giving each character a unique voice with period-appropriate slang. I also crafted all the supportive guidance from Billy and Susie to mentor players without giving away solutions.</li>
-          <li><strong>Narrative-Driven Design:</strong> Made sure every puzzle served the story. For example, I designed the key "Graffiti Code" puzzle where solving a scattered mural reveals a hidden character message, teaching visual literacy and art history as detective skills.</li>
+          <li><strong>Narrative-Driven Design:</strong> Made sure every puzzle served the story. For example: the key "Graffiti Code" puzzle where solving a scattered mural reveals a hidden character message, teaching visual literacy and art history as detective skills.</li>
           </p>
           <p className="text-lg text-gray-400 mb-4">
           Link to read some of the narrative I wrote <a href="https://docs.google.com/document/d/1fQcS1so8ZNSv7D0f80flZXeU3Ojfcc7LKnPVOSdR7DA/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
@@ -49,9 +49,9 @@ const Project27 = () => {
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-2">
-          The Billy Jo Jive Experience was a semester long project to revive the 1970s Sesame Street characters, Billy Jo Jive and Smart Susie Sunset, for a modern audience. Our challenge was to create an interactive experience that preserved the IP's core values literacy, positive representation, and community problem solving while engaging today's 10 to 12 year olds. </p>
+          The Billy Jo Jive Experience was a semester long project to revive the 1970s Sesame Street characters, Billy Jo Jive and Smart Susie Sunset, for a modern audience. Our challenge was to create an interactive experience that preserved the IP&apos;s core values literacy, positive representation, and community problem solving while engaging today&apos;s 10 to 12 year olds. </p>
           <p className="text-lg text-gray-400 mb-4">
-          We designed and built a 30 minute, narrative driven location based mystery (akin to a wholesome escape room). Participants were recruited into Jive and Sunset's "Crime Lab" to solve a decades old cold case: the theft of legendary graffiti artist Queen G's iconic spray cans. The experience uniquely blended physical props (a rotary phone, UV flashlight, case files) with digital tools (a Tilt5 AR viewer for virtual location scouting) to create a fun, investigative adventure.</p>
+          We designed and built a 30 minute, narrative driven location based mystery (akin to a wholesome escape room). Participants were recruited into Jive and Sunset&apos;s "Crime Lab" to solve a decades old cold case: the theft of legendary graffiti artist Queen G&apos;s iconic spray cans. The experience uniquely blended physical props (a rotary phone, UV flashlight, case files) with digital tools (a Tilt5 AR viewer for virtual location scouting) to create a fun, investigative adventure.</p>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
             <Image src="/images/wotbsadyes.gif" alt="wotbsadyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
@@ -76,13 +76,15 @@ const Project27 = () => {
         </div>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
-          This project was created for the Visual Story class in Carnegie Mellon&apos;s Master of Entertainment Technology program. It was developed in approximately two months by a team of six.
+          This was a team project made for Carnegie Mellon University&apos;s Entertainment Technology Center. We were a team of 6 working on this for a semester.
           </p>
           <div className="text-lg text-gray-400 mb-4">
-                <li>Art by Moe Aguilar, Harley Xu and Eunyoung Park</li>
-                <li>Programming by Ethan Zhu and Vector Liu</li>
-                <li>Story by Moe Aguilar and Joshua Kaplan</li>
-                <li>Props by Moe Aguilar and Joshua Kaplan</li>
+                <li>Moe Aguilar: Narrative Lead, Writer, 2D Artist, UI/UX</li>
+                <li>Benjamin Walker: Game Design Lead, Scenery, Voice Acting</li>
+                <li>Joshua Kaplan: Programming Lead, Audio Tech, Electronics</li>
+                <li>Azu De: Tech Art Lead, Electronics & Fabrication, 3D Art</li>
+                <li>Eliana Huang: Art Lead, 2D/3D Assets, VFX</li>
+                <li>Fay Li: 2D Assets, Scenery Art, Props</li>
           </div>
         </div>
       </div>
