@@ -39,7 +39,7 @@ const Project27 = () => {
         <div className="mb-4">
         <Image src="/images/EndingBJJ.PNG" alt="EndingBJJ" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2">Ending Illustration</p>
+        <p className="text-md text-gray-500">Ending Illustration</p>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
@@ -74,7 +74,7 @@ const Project27 = () => {
           This was a team project made for Carnegie Mellon University&apos;s Entertainment Technology Center. We were a team of 6 working on this for a semester.
           </p>
           <div className="text-lg text-gray-400 mb-4">
-                <li>Moe Aguilar: Narrative Lead, Writer, 2D Artist, UI/UX</li>
+                <li>Moe Aguilar: Narrative Lead, Writer, 2D Artist</li>
                 <li>Benjamin Walker: Game Design Lead, Scenery, Voice Acting</li>
                 <li>Joshua Kaplan: Programming Lead, Audio Tech, Electronics</li>
                 <li>Azu De: Tech Art Lead, Electronics & Fabrication, 3D Art</li>
