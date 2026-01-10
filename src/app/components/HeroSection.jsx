@@ -8,7 +8,7 @@ const AboutSection = dynamic(() => import('./AboutSection'), { ssr: false });
 
 const HeroSection = () => {
   return (
-    <section className=" mt-20">
+    <section className="mt-20 pl-8 sm:pl-12 lg:pl-16">
       <div className='grid grid-cols-1 sm:grid-cols-12'>
         <div className='col-span-7 place-self-center text-center sm:text-left'>
           <h1 className="text-white mb-6 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
