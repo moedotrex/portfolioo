@@ -20,14 +20,6 @@ const Project26 = () => {
         <Image src="/images/dialoguesgif.gif" alt="uefndialogue" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Dialogue System</p>
-        <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
-          <p className="text-lg text-gray-400 mb-4">
-          I also made some of the 2D backgrounds, as well as concept sketches and storyboards for some of the game&apos;s cutscenes.
-          </p>
-        <div className="mb-4">
-        <Image src="/images/wotbrig.png" alt="wotbrig" width={700} height={500} />
-        </div>
-        <p className="text-md text-gray-500 mt-2">Flower rig made in Blender</p>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
@@ -42,8 +34,8 @@ const Project26 = () => {
             Using UEFN&apos;s Verse API, I built the main gameplay systems including the quest tracking and management system that guides players through the island&apos;s three biomes. I programmed interactive NPC behaviors, such as the accommodation feature where players can give items like sunglasses to unlock new abilities and hints from characters. I also directed and put together the game&apos;s final cutscene, which features a custom LEGO volcano I built and animated with Niagara VFX for the eruption sequence. Additionally, I helped design the clean, low-stimulation user interface to ensure the game remained comfortable and accessible for all players.
           </p>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
-            <Image src="/images/wotbsparkles.gif" alt="wotbsparkles" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
-            <Image src="/images/wotbquestion.gif" alt="wotbquestion" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/accommodationuefngif.gif" alt="accommodationgif2" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
+            <Image src="/images/accommodationassets.png" alt="accommodationassets" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
         </div>
         <p className="text-md text-gray-500 mt-2">Flower VFX</p>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
@@ -54,7 +46,7 @@ const Project26 = () => {
                 <li>Narrative by Moe Aguilar</li>
                 <li>Programming by Grace Rodriguez and Moe Aguilar</li>
                 <li>Game Design by Jose Francisco Mireles</li>
-                <li>Music by Libby Egan</li>
+                <li>Sound Design by Libby Egan</li>
           </div>
           <div className="mt-4">
               <p className="text-xl text-gray-400 font-bold">Play the game!</p>
