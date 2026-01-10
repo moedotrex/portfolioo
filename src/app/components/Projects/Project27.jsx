@@ -47,20 +47,11 @@ const Project27 = () => {
           The Billy Jo Jive Experience was a semester long project to revive the 1970s Sesame Street characters, Billy Jo Jive and Smart Susie Sunset, for a modern audience. Our challenge was to create an interactive experience that preserved the IP&apos;s core values literacy, positive representation, and community problem solving while engaging today&apos;s 10 to 12 year olds. </p>
           <p className="text-lg text-gray-400 mb-4">
           We designed and built a 30 minute, narrative driven location based mystery (akin to a wholesome escape room). Participants were recruited into Jive and Sunset&apos;s "Crime Lab" to solve a decades old cold case: the theft of legendary graffiti artist Queen G&apos;s iconic spray cans. The experience uniquely blended physical props (a rotary phone, UV flashlight, case files) with digital tools (a Tilt5 AR viewer for virtual location scouting) to create a fun, investigative adventure.</p>
-          <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/bjjsb1.PNG" alt="bjjsb1" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
-            <Image src="/images/bjjsb2.PNG" alt="bjjsb2" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
-        </div>
-        <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
-            <Image src="/images/bjjsb3.PNG" alt="bjjsb3" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
-            <Image src="/images/bjjsb4.PNG" alt="bjjsb4" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
-        </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Onboarding Storyboard</p>
         <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
             <Image src="/images/halfsheetfront.png" alt="halfsheetfront" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/halfsheetbck.png" alt="halfsheetback" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
-        <p className="text-md text-gray-500 mt-2">Promotional halfsheet I made</p>
+        <p className="text-md text-gray-500 mb-2">Promotional halfsheet I made</p>
         <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
             Besides Narrative, I also helped with some Art tasks.
@@ -69,9 +60,15 @@ const Project27 = () => {
                 <li><strong>2D Art:</strong> Produced several of the graffiti art pieces used as physical clues, each styled for a specific character.</li>
                 <li><strong>VFX/Shaders:</strong> Developed glow/highlight effects in Unity for the AR viewer to guide player attention to clues.</li>
           </p>
-          <div className="mb-4">
-        <Image src="/images/wotbtable.jpg" alt="wotbtable" width={700} height={500} />
+          <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
+            <Image src="/images/bjjsb1.PNG" alt="bjjsb1" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
+            <Image src="/images/bjjsb2.PNG" alt="bjjsb2" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
+        <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
+            <Image src="/images/bjjsb3.PNG" alt="bjjsb3" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
+            <Image src="/images/bjjsb4.PNG" alt="bjjsb4" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
+        </div>
+        <p className="text-md text-gray-500 mb-3">Onboarding Storyboard</p>
         <p className="text-xl text-gray-400 font-bold mb-2 mt-2">The Team</p>
           <p className="text-lg text-gray-400 mb-4">
           This was a team project made for Carnegie Mellon University&apos;s Entertainment Technology Center. We were a team of 6 working on this for a semester.
