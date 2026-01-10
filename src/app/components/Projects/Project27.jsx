@@ -27,10 +27,10 @@ const Project27 = () => {
           <div className="mb-2">
         <Image src="/images/muddclubref.PNG" alt="muddclubref" width={700} height={500} />
         </div>
-        <div className="mb-2">
+        <div className="mb-0">
         <Image src="/images/q2ref.PNG" alt="q2ref" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Grafitti pieces I made</p>
+        <p className="text-md text-gray-500 mb-2">Grafitti pieces I made</p>
         <div className="mb-4">
         <Image src="/images/EndingBJJ.PNG" alt="EndingBJJ" width={700} height={500} />
         </div>
