@@ -10,7 +10,7 @@ const Project27 = () => {
       <div className="mb-8 flex flex-col md:flex-row items-start">
         <div className="md:w-1/2">
           <div className="mb-2">
-        <Image src="/images/27.gif" alt="bjj" width={700} height={500} />
+        <Image src="/images/projects/27.gif" alt="bjj" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mb-4">Project Highlights</p>
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>

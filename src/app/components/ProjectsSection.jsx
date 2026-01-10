@@ -34,6 +34,7 @@ const Project24 = dynamic(() => import('./Projects/Project24'), { ssr: false });
 const Project25 = dynamic(() => import('./Projects/Project25'), { ssr: false });
 const Project26 = dynamic(() => import('./Projects/Project26'), { ssr: false });
 const Project27 = dynamic(() => import('./Projects/Project27'), { ssr: false });
+const Project28 = dynamic(() => import('./Projects/Project28'), { ssr: false });
 
 const projectsData = [
   {
