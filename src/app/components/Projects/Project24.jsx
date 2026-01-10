@@ -80,12 +80,12 @@ const Project24 = () => {
                 <li>Programming by Jack Chou</li>
           </div>
           <div className="mt-6">
-              <p className="text-xl text-gray-400 font-bold">Download and more</p>
+              <p className="text-xl text-gray-400 font-bold">Download and more!</p>
               <p className="text-lg text-gray-400 mt-2">
-                Link to download the game <a href="https://jackzhou-0523.itch.io/speak-your-heart" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
+                <li>Link to download the game <a href="https://jackzhou-0523.itch.io/speak-your-heart" target="_blank" rel="noopener noreferrer"><strong>here</strong></a></li>
               </p>
               <p className="text-lg text-gray-400 mt-2">
-                Official project website plus a devlog can be found <a href="https://projects.etc.cmu.edu/expression/"><strong>here</strong></a>
+                <li>Official project website plus a devlog can be found <a href="https://projects.etc.cmu.edu/expression/"><strong>here</strong></a></li>
               </p>
           </div>
         </div>
