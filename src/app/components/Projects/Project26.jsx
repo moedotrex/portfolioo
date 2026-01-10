@@ -22,6 +22,9 @@ const Project26 = () => {
           <p className="text-lg text-gray-400 mb-4">
           As the narrative lead, I worked closely with autism consultants to shape the story, characters, and lore of Purrject Rebuild. I built the core theme that a civilization succeeds when different minds work together and expressed it through three autistic characters: The Architect, who values precision and routine; The Curator, who is a pattern-seeker with sensory sensitivity; and The Explorer, who experiences time-blindness and hyperfocus. I wrote their dialogue, designed their personal journeys to feel authentic and avoid stereotypes, and developed the world's backstory from its creation myths to the reasons for its collapse. All of this was designed to teach empathy naturally through play, not through lectures.
           </p>
+          <p className="text-lg text-gray-400 mb-4">
+          Link to read some of the narrative I wrote <a href="https://docs.google.com/document/d/1LSOkdZ3wWPEHJaE4JHX1BXUZHVPuMtrSNQlur2qLU20/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
+          </p>
           <div className="mb-2">
         <Image src="/images/dialoguesgif.gif" alt="uefndialogue" width={700} height={500} />
         </div>
