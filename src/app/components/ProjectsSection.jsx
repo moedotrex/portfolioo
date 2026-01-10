@@ -204,6 +204,7 @@ const projectsData = [
       tag: ["All", "Art"],
       previewUrl: "/Project14",
     },
+    /*
     {
       id: 15,
       title: "Victorian Character Design",
@@ -212,6 +213,7 @@ const projectsData = [
       tag: ["All", "Art"],
       previewUrl: "/Project15",
     },
+    */
     {
       id: 16,
       title: "Los Vigilantes del Agua",
