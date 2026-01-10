@@ -54,19 +54,19 @@ const projectsData = [
   },
   {
     id: 20,
-    title: "Purrject Rebuild",
-    description: "A LEGO Fortnite Island about collaboration, neurodiversity, and rebuilding lost worlds.",
-    image: "/images/projects/26.gif",
-    tag: ["All", "Games", "AR/VR"],
-    previewUrl: "/Project26",
-  },
-  {
-    id: 26,
     title: "Monkeying Around",
     description: "A VR adventure game where players embody a monkey toy navigating a toy store's basement, using intuitive climbing mechanics.",
     image: "/images/projects/20.gif",
     tag: ["All", "Games", "AR/VR"],
     previewUrl: "/Project20",
+  },
+  {
+    id: 26,
+    title: "Purrject Rebuild",
+    description: "A LEGO Fortnite Island about collaboration, neurodiversity, and rebuilding lost worlds.",
+    image: "/images/projects/26.gif",
+    tag: ["All", "Games"],
+    previewUrl: "/Project26",
   },
   {
     id: 23,
