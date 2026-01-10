@@ -22,6 +22,20 @@ const Project26 = () => {
         <p className="text-md text-gray-500 mt-2 mb-3">Dialogue System</p>
         </div>
         <div className="md:w-1/2 md:ml-8">
+        <div className="mb-4">
+        <Image src="/images/explosion1gif.gif" alt="explosion" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2 mb-3">Explosion VFX and cutscene</p>
+        </div>
+        <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
+            <Image src="/images/explosiongif.gif" alt="explosion2" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
+            <Image src="/images/volcano.png" alt="volcano" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
+        </div>
+        <p className="text-md text-gray-500 mt-2">VFX made in Niagara and volcano model made with the LEGO Brick Editor</p>
+        <div className="mb-4">
+        <Image src="/images/explosionassets.png" alt="explosionassets" width={700} height={500} />
+        </div>
+        <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
             Purrject Rebuild is an exploration and building game designed in UEFN for both neurodivergent and neurotypical players. Set in a lost civilization that thrived through collaboration, players help a team of autistic archaeologists rebuild their world by completing sensory-friendly quests, accommodating unique needs, and uncovering a story centered on empathy and acceptance.
