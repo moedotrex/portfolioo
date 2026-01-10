@@ -21,7 +21,7 @@ const Project24 = () => {
           <p className="text-lg text-gray-400 mb-4">
           I also made some of the 2D backgrounds, as well as concept sketches and storyboards for some of the game&apos;s cutscenes.
           </p>
-          <div className="mb-10">
+          <div className="mb-6">
         <Image src="/images/cmubg1.PNG" alt="cmubg1" width={700} height={500} />
         </div>
         <div className="mb-2">
@@ -36,14 +36,11 @@ const Project24 = () => {
           <div className="mb-4">
         <Image src="/images/beststudentgame.jpg" alt="beststudentgame" width={700} height={500} />
         </div>
-        <div className="mt-6">
-              <p className="text-xl text-gray-400 font-bold">Download</p>
-              <p className="text-lg text-gray-400 mt-2">
-                Link to download the game <a href="https://jackzhou-0523.itch.io/speak-your-heart" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
-              </p>
-          </div>
         </div>
         <div className="md:w-1/2 md:ml-8">
+        <p className="text-xl text-gray-400 mb-4">
+          All words have consequences. The context the words are spoken in determine those consequences. What is legal? What is offensive? What is hate speech? When do words cross a line?  
+          </p>
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
           Speak You Heart is a transformational game that explores freedom of speech and academic freedom within a campus environment. Topics such as the definition of hate speech, the importance of context in expression, the influence of social norms on speech, and the necessity of controversial discussions for academic growth will be introduced and examined. 
@@ -76,6 +73,12 @@ const Project24 = () => {
                 <li>UI/UX by Jiwon Park</li>
                 <li>Music by Kailun Deng</li>
                 <li>Programming by Jack Chou</li>
+          </div>
+          <div className="mt-6">
+              <p className="text-xl text-gray-400 font-bold">Download</p>
+              <p className="text-lg text-gray-400 mt-2">
+                Link to download the game <a href="https://jackzhou-0523.itch.io/speak-your-heart" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
+              </p>
           </div>
         </div>
       </div>
