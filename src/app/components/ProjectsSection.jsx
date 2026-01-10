@@ -37,6 +37,14 @@ const Project27 = dynamic(() => import('./Projects/Project27'), { ssr: false });
 
 const projectsData = [
   {
+    id: 24,
+    title: "Speak Your Heart",
+    description: "A transformational game that explores freedom of speech and academic freedom within a campus environment.",
+    image: "/images/projects/24.gif",
+    tag: ["All", "Games"],
+    previewUrl: "/Project24",
+  },
+  {
     id: 25,
     title: "Scotty3D",
     description: "Built every layer of a 3D graphics system, from polygon manipulation to path-traced renders.",
