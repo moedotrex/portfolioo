@@ -20,12 +20,11 @@ const Project26 = () => {
         <Image src="/images/dialoguesgif.gif" alt="uefndialogue" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Dialogue System</p>
-        <div className="md:w-1/2 md:ml-8">
         <div className="mb-4">
         <Image src="/images/explosion1gif.gif" alt="explosion" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Explosion VFX and cutscene</p>
-        </div>
+
         <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
             <Image src="/images/explosiongif.gif" alt="explosion2" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/volcano.png" alt="volcano" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
