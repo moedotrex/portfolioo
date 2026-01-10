@@ -48,7 +48,7 @@ const Project24 = () => {
           Speak You Heart is a transformational game that explores freedom of speech and academic freedom within a campus environment. Topics such as the definition of hate speech, the importance of context in expression, the influence of social norms on speech, and the necessity of controversial discussions for academic growth will be introduced and examined. 
           Through interactive storytelling and choice-driven gameplay, players navigate conflicts between student groups engaging in conversations with representations of “law”, “school policy”, and “social norms”, each offering different perspectives and solutions. By blending a transformational framework with engaging gameplay, the experience raises awareness of how words have consequences in academic and societal settings. 
           </p>
-          <div className="mb-4">
+          <div className="mb-2">
           <video width="100%" height="auto" controls>
               <source src="/images/Expressionfinalvideo.mp4" type="video/mp4" /> 
               Your browser does not support the video tag.
@@ -60,6 +60,7 @@ const Project24 = () => {
           <div className="mb-4">
         <Image src="/images/narrativeoverviewgif.gif" alt="narrativeoverviewgif" width={700} height={500} />
         </div>
+        <p className="text-md text-gray-500 mt-2 mb-3">Narrative dialogues in Miro for easier visualization of the narrative branches</p>
         <div className="mb-4">
         <Image src="/images/cmumenuspgif.gif" alt="menuSYHgif" width={700} height={500} />
         </div>
