@@ -20,7 +20,6 @@ const Project26 = () => {
         <Image src="/images/dialoguesgif.gif" alt="uefndialogue" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Dialogue System</p>
-        </div>
         <div className="md:w-1/2 md:ml-8">
         <div className="mb-4">
         <Image src="/images/explosion1gif.gif" alt="explosion" width={700} height={500} />
@@ -39,6 +38,7 @@ const Project26 = () => {
         <Image src="/images/endinggif.gif" alt="ending" width={700} height={500} />
         </div>
         <p className="text-md text-gray-500 mt-2 mb-3">Ending credits cutscene</p>
+        </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
