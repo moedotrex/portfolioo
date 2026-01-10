@@ -76,6 +76,16 @@ const projectsData = [
     tag: ["All", "Games"],
     previewUrl: "/Project23",
   },
+  /*
+  {
+    id: 27,
+    title: "The Billy Joe Jive Experience",
+    description: "Tea Party with sentient flowers experience.",
+    image: "/images/projects/27.gif",
+    tag: ["All", "Games"],
+    previewUrl: "/Project27",
+  },
+  */
   {
     id: 22,
     title: "Interstellar Countdown",

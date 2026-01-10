@@ -20,8 +20,10 @@ const Project27 = () => {
           </p>
           <p className="text-xl text-gray-400 font-bold mb-2">Narrative</p>
           <p className="text-lg text-gray-400 mb-4">
-          My main contribution for the project was as the Narrative Designer. I was in charge of creating a compelling story that would help teach about Freedom of Speech to University students.
-
+          As the narrative lead, I worked closely with autism consultants to shape the story, characters, and lore of Purrject Rebuild. I built the core theme that a civilization succeeds when different minds work together and expressed it through three autistic characters: The Architect, who values precision and routine; The Curator, who is a pattern-seeker with sensory sensitivity; and The Explorer, who experiences time-blindness and hyperfocus. I wrote their dialogue, designed their personal journeys to feel authentic and avoid stereotypes, and developed the world's backstory from its creation myths to the reasons for its collapse. All of this was designed to teach empathy naturally through play, not through lectures.
+          </p>
+          <p className="text-lg text-gray-400 mb-4">
+          Link to read some of the narrative I wrote <a href="https://docs.google.com/document/d/1LSOkdZ3wWPEHJaE4JHX1BXUZHVPuMtrSNQlur2qLU20/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
           </p>
           <div className="mb-4">
         <Image src="/images/wotbsketches.PNG" alt="wotbsketches" width={700} height={500} />
@@ -38,10 +40,10 @@ const Project27 = () => {
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
+          <p className="text-lg text-gray-400 mb-2">
+          The Billy Jo Jive Experience was a semester long project to revive the 1970s Sesame Street characters, Billy Jo Jive and Smart Susie Sunset, for a modern audience. Our challenge was to create an interactive experience that preserved the IP's core values literacy, positive representation, and community problem solving while engaging today's 10 to 12 year olds. </p>
           <p className="text-lg text-gray-400 mb-4">
-          Speak You Heart is a transformational game that explores freedom of speech and academic freedom within a campus environment. Topics such as the definition of hate speech, the importance of context in expression, the influence of social norms on speech, and the necessity of controversial discussions for academic growth will be introduced and examined. 
-          Through interactive storytelling and choice-driven gameplay, players navigate conflicts between student groups engaging in conversations with representations of “law”, “school policy”, and “social norms”, each offering different perspectives and solutions. By blending a transformational framework with engaging gameplay, the experience raises awareness of how words have consequences in academic and societal settings. 
-          </p>
+          We designed and built a 30 minute, narrative driven location based mystery (akin to a wholesome escape room). Participants were recruited into Jive and Sunset's "Crime Lab" to solve a decades old cold case: the theft of legendary graffiti artist Queen G's iconic spray cans. The experience uniquely blended physical props (a rotary phone, UV flashlight, case files) with digital tools (a Tilt5 AR viewer for virtual location scouting) to create a fun, investigative adventure.</p>
           <div className="mb-2"style={{ display: 'flex', gap: '5px' }}>
             <Image src="/images/wotbhappyyes.gif" alt="wotbhappyyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
             <Image src="/images/wotbsadyes.gif" alt="wotbsadyes" className="w-full mb-2 h-auto" style={{ maxWidth: 330, height: 'auto' }} />
