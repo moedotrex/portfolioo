@@ -29,14 +29,17 @@ const Project27 = () => {
           <p className="text-lg text-gray-400 mb-4">
           Link to read some of the narrative I wrote <a href="https://docs.google.com/document/d/1fQcS1so8ZNSv7D0f80flZXeU3Ojfcc7LKnPVOSdR7DA/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
           </p>
-          <div className="mb-4">
-        <Image src="/images/wotbsketches.PNG" alt="wotbsketches" width={700} height={500} />
+          <div className="mb-2">
+        <Image src="/images/muddclubref.PNG" alt="muddclubref" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Early concept sketches</p>
+        <div className="mb-2">
+        <Image src="/images/q2ref.PNG" alt="q2ref" width={700} height={500} />
+        </div>
+        <p className="text-md text-gray-500 mt-2 mb-3">Grafitti Pieces I made</p>
         <div className="mb-4">
-        <Image src="/images/wotbrig.png" alt="wotbrig" width={700} height={500} />
+        <Image src="/images/EndingBJJ.PNG" alt="EndingBJJ" width={700} height={500} />
         </div>
-        <p className="text-md text-gray-500 mt-2">Flower rig made in Blender</p>
+        <p className="text-md text-gray-500 mt-2">Ending Illustration</p>
         </div>
         <div className="md:w-1/2 md:ml-8">
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
@@ -52,12 +55,12 @@ const Project27 = () => {
             <Image src="/images/bjjsb3.PNG" alt="bjjsb3" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/bjjsb4.PNG" alt="bjjsb4" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
-        <p className="text-md text-gray-500 mt-2 mb-3">Flower Animations</p>
+        <p className="text-md text-gray-500 mt-2 mb-3">Onboarding Storyboard</p>
         <div className="mb-2"style={{ display: 'flex', gap: '10px' }}>
             <Image src="/images/halfsheetfront.png" alt="halfsheetfront" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
             <Image src="/images/halfsheetbck.png" alt="halfsheetback" className="w-full mb-2 h-auto" style={{ maxWidth: 345, height: 'auto' }} />
         </div>
-        <p className="text-md text-gray-500 mt-2">Flower VFX</p>
+        <p className="text-md text-gray-500 mt-2">Promotional halfsheet I made</p>
         <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
             Besides Narrative, I also helped with some Art tasks.
