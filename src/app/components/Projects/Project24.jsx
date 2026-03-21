@@ -16,8 +16,8 @@ const Project24 = () => {
           <p className="text-lg text-gray-400 mb-4">
           My main contribution for the project was as the Narrative Designer. I was in charge of creating a compelling story that would help teach about Freedom of Speech to University students.
           </p>
-          <p className="text-lg text-gray-400 mb-4">
-          Link to read some of the dialogues I wrote <a href="https://docs.google.com/document/d/1XTormJp-BY20dMEzXp19X4_HPhhDVVrwjitg1J3JH3s/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
+          <p className="text-lg text-white mb-4">
+          <a href="https://docs.google.com/document/d/1XTormJp-BY20dMEzXp19X4_HPhhDVVrwjitg1J3JH3s/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Link to read some of the dialogues I wrote here</strong></a>
           </p>
         <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
           <p className="text-lg text-gray-400 mb-4">
@@ -45,7 +45,7 @@ const Project24 = () => {
           </p>
           <p className="text-xl text-gray-400 font-bold mb-2">About</p>
           <p className="text-lg text-gray-400 mb-4">
-          Speak You Heart is a transformational game that explores freedom of speech and academic freedom within a campus environment. Topics such as the definition of hate speech, the importance of context in expression, the influence of social norms on speech, and the necessity of controversial discussions for academic growth will be introduced and examined. 
+          Speak Your Heart is a transformational game that explores freedom of speech and academic freedom within a campus environment. Topics such as the definition of hate speech, the importance of context in expression, the influence of social norms on speech, and the necessity of controversial discussions for academic growth will be introduced and examined. 
           Through interactive storytelling and choice-driven gameplay, players navigate conflicts between student groups engaging in conversations with representations of “law”, “school policy”, and “social norms”, each offering different perspectives and solutions. By blending a transformational framework with engaging gameplay, the experience raises awareness of how words have consequences in academic and societal settings. 
           </p>
           <div className="mb-2">
@@ -81,9 +81,9 @@ const Project24 = () => {
                 <li>Programming by Jack Chou</li>
           </div>
           <div className="mt-6">
-              <p className="text-xl text-gray-400 font-bold">Download and more!</p>
-              <p className="text-lg text-gray-400 mt-2">
-                <li>Link to download the game <a href="https://jackzhou-0523.itch.io/speak-your-heart" target="_blank" rel="noopener noreferrer"><strong>here</strong></a></li>
+              <p className="text-xl text-white font-bold">Download and more!</p>
+              <p className="text-lg text-white mt-2">
+                <li><a href="https://jackzhou-0523.itch.io/speak-your-heart" target="_blank" rel="noopener noreferrer"><strong>Link to download the game here</strong></a></li>
               </p>
               <p className="text-lg text-gray-400 mt-2">
                 <li>Official project website plus a devlog can be found <a href="https://projects.etc.cmu.edu/expression/"><strong>here</strong></a></li>

@@ -40,9 +40,9 @@ const projectsData = [
   {
     id: 24,
     title: "Speak Your Heart",
-    description: "A freedom of speech dating simulator.",
+    description: "An award winning freedom of speech dating simulator.",
     image: "/images/projects/24.gif",
-    tag: ["All", "Games"],
+    tag: ["All", "Games", "Narrative"],
     previewUrl: "/Project24",
   },
   {
@@ -66,7 +66,7 @@ const projectsData = [
     title: "Purrject Rebuild",
     description: "A LEGO Fortnite Island about collaboration, neurodiversity, and rebuilding lost worlds.",
     image: "/images/projects/26.gif",
-    tag: ["All", "Games"],
+    tag: ["All", "Games", "Narrative"],
     previewUrl: "/Project26",
   },
   {
@@ -82,7 +82,7 @@ const projectsData = [
     title: "The Billy Joe Jive Experience",
     description: "A mixed-reality escape room that brings a classic Sesame Street detective duo into the present.",
     image: "/images/projects/27.gif",
-    tag: ["All", "Games", "AR/VR"],
+    tag: ["All", "Games", "AR/VR", "Narrative"],
     previewUrl: "/Project27",
   },
   {
@@ -298,6 +298,11 @@ const projectsData = [
           onClick={handleTagChange}
           name="Art"
           isSelected={tag === "Art"}
+        />
+        <ProjectTag
+          onClick={handleTagChange}
+          name="Narrative"
+          isSelected={tag === "Narrative"}
         />
         <ProjectTag
           onClick={handleTagChange}
