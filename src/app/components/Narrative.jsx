@@ -3,7 +3,7 @@ import dynamic from 'next/dynamic';
 import Image from 'next/image';
 import Link from 'next/link';
 
-const VFXReel = () => {
+const Narrative = () => {
   return (
     <section className=" mt-10 mb-15">
         <div className='col-span-7 place-self-center text-center'>
