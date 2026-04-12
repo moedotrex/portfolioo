@@ -16,7 +16,7 @@ const Project24 = () => {
           <p className="text-lg text-gray-400 mb-4">
           My main contribution for the project was as the Narrative Designer. I was in charge of creating a compelling story that would help teach about Freedom of Speech to University students.
           </p>
-          <p className="text-lg text-white mb-4">
+          <p className="text-xl text-white mb-4">
           <a href="https://docs.google.com/document/d/1XTormJp-BY20dMEzXp19X4_HPhhDVVrwjitg1J3JH3s/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Link to read some of the dialogues I wrote here</strong></a>
           </p>
         <p className="text-xl text-gray-400 font-bold mb-2">Other Contributions</p>
