@@ -215,6 +215,7 @@ const projectsData = [
       tag: ["All", "AR/VR"],
       previewUrl: "/Project13",
     },
+    /*
     {
       id: 14,
       title: "Piel Canela (Animation)",
@@ -223,6 +224,7 @@ const projectsData = [
       tag: ["All", "Art"],
       previewUrl: "/Project14",
     },
+    */
     /*
     {
       id: 15,
