@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const Narrative = () => {
   const narrativeProjects = [
     {
@@ -43,19 +42,19 @@ const Narrative = () => {
       </div>
 
       {/* Video Showcase Section */}
-      <div className="mt-20 px-4 max-w-6xl mx-auto">
+      <div className="mt-20 px-4 max-w-4xl mx-auto">
         <h2 className="text-white mb-12 text-3xl sm:text-4xl font-bold text-center">
           Gameplay Videos
         </h2>
         
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <div className="flex flex-col gap-12">
           {narrativeProjects.map((project, index) => (
             <div key={index} className="flex flex-col">
               {/* YouTube Embed */}
               <div className="w-full mb-4 rounded-lg overflow-hidden">
                 <iframe
                   width="100%"
-                  height="250"
+                  height="350"
                   src={`https://www.youtube.com/embed/${project.youtubeId}`}
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
