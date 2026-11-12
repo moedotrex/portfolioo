@@ -7,7 +7,9 @@ const VFXReelPage = () => {
   return (
     <div className="flex min-h-screen flex-col bg-[#121212]">
       <Navbar />
-      <VFXReel />
+      <div className="mt-40">
+        <VFXReel />
+      </div>
       <Footer />
     </div>
   );
